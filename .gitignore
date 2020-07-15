@@ -1,0 +1,6 @@
+.DS_Store
+game/cache
+game/saves/persistent
+*.rpyc
+log.txt
+*.rpymc
