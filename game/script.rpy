@@ -16,9 +16,14 @@ label start:
 
     scene bg room
 
+    "You are standing at the end of a road before a small brick building. Around you is a forest. A small stream flows out of the building and down a gully."
+
     # This shows a character sprite. A placeholder is used, but you can
     # replace it by adding a file named "eileen happy.png" to the images
     # directory.
+
+    
+
 
     show eileen happy
 
