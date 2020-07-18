@@ -11,10 +11,10 @@
 - Create layout (me)
 - Add sample transitions (Dad)
 - Gather songs and sound effect (me. Dad and Mary, feel free to send suggestions!)
-- Create sample game from outline/draft and everything compiled thus far (programming team)
+- Create sample game from outline/draft and everything compiled thus far (Dad and Yugyfoog)
 - Write final version of the story (writing team)
 
 # August 3-August 9 9:00 p.m. PST 
-- Input final version of the story into the game (programming team)
+- Input final version of the story into the game (Dad and Yugyfoog)
 - Finalize character art, background art, layout, transitions, and songs and sound effects.
-- Test game and work out any bugs (programming team + willing victims)
+- Test game and work out any bugs (Dad and Yugyfoog + willing victims)
