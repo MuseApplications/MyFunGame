@@ -18,4 +18,4 @@ She gets home, grabs the mail and finds a letter for her neighor (rkamradtsr). S
 
 *yugyfoog's invention is a volcano that blows up in the judge's faces (rk)*
 
-*what if yugyfoog congratulates rai and then launches into a deep psychological explanation as to why he is the way he is, only to be interrupted either by rai or some event, revealing that nobody cares (rai)*
+*what if yugyfoog congratulates rai and then launches into a deep psychological explanation as to why he is the way he is, only to be interrupted a second eruption of his volcano (it turns out that MaryRose put more baking powder in it when he wasn't looking 'cause he wouldn't shut up), revealing that nobody cares (rai)*

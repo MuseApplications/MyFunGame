@@ -14,6 +14,7 @@ label start:
     # add a file (named either "bg room.png" or "bg room.jpg") to the
     # images directory to show it.
 
+    play music "audio/02 - Away, No Way.mp3"
     scene bg room
 
     "You are standing at the end of a road before a small brick building. Around you is a forest. A small stream flows out of the building and down a gully."
@@ -22,7 +23,7 @@ label start:
     # replace it by adding a file named "eileen happy.png" to the images
     # directory.
 
-    
+
 
 
     show eileen happy
