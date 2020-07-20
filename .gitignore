@@ -1,7 +1,6 @@
 .DS_Store
 game/cache
-game/saves/persistent
+game/saves
 *.rpyc
 log.txt
 *.rpymc
-*.save
