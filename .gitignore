@@ -4,3 +4,4 @@ game/saves/persistent
 *.rpyc
 log.txt
 *.rpymc
+*.save
