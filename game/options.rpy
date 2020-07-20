@@ -30,6 +30,15 @@ define config.version = "1.0"
 ## triple-quotes, and leave a blank line between paragraphs.
 
 define gui.about = _p("""
+Project management: Rachel
+Programming: Dad (lead), Rachel
+Layout: Rachel
+Transitions: Dad
+Writing: Mary (lead), Rachel (editor)
+Background art: Dad and Mary
+Character art: Rachel (lead), (Dad and Mary)
+Music + sound effects: Rachel (lead), music/sound suggestions welcome
+Fetching coffee: Yugyfoog
 """)
 
 
