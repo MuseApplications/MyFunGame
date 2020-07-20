@@ -15,3 +15,6 @@ She gets home, grabs the mail and finds a letter for her neighor (rkamradtsr). S
 (Yugyfoog) has an invention and enters the competition too. The crowd is amazed by the McGuffin and (Rai) wins 1st prize at the science fair. (Yugyfoog) either acts like a jerk and walks away OR congratulates her and says she'd make a great scientist. She decides to become an astrophysicist.
 
 *yugyfoog's invention is a volcano that blows up in the judge's faces (rk)*
+
+*what if yugyfoog congratulates rai and then launches into a deep psychological explanation as to why he is the way he is, only to be interrupted either by rai or some event, revealing that nobody cares (rai)*
+
