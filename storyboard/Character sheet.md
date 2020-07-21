@@ -7,7 +7,7 @@ Fill in character information here. Feel free to add categories!
 2. Age: 15
 3. Height: 5'5"
 4. Eye color: Brown
-5. Race: Filipino-American (half or full?)
+5. Race: Filipino-American
 6. Physical appearance, clothing, style: Jeans, T-shirts with video game characters on them (Overwatch, etc), sneakers
 7. Hobbies/interests: Video games, sci fi
 8. Special skills/abilities: Very intelligent. Good at science. Can fix/troubleshoot most electronics
@@ -18,7 +18,7 @@ Fill in character information here. Feel free to add categories!
 13. Any notable quirks?: Dyes her hair purple
 14. Strengths: Adventurous and willing to try new things
 15. Weaknesses: Can be an overacheiver, hard on herself
-16. What's their family like? Relationship to family? Family history?: Only child, parents divorced, lives with mom who works long hours and is never home
+16. What's their family like? Relationship to family? Family history?: Only child, dad works overseas, lives with mom who works long hours and is never home
 17. What do other people think of this character?: She is popular with lots of friends. She is smart and interesting.
 18. Philosophy on life: I'll try anything once
 19. Three words to describe this character: Unconventional, independent, adroit
@@ -30,8 +30,8 @@ Fill in character information here. Feel free to add categories!
 1. Name: MaryRose (Maria Rosa)
 2. Age: 14
 3. Height: 5'1"
-4. Eye color: Green
-5. Race: ...
+4. Eye color: brown
+5. Race: Colombian-American
 6. Physical appearance, clothing, style: Leggings and flowery hand-made tops, sandals, a little old-fashioned
 7. Hobbies/interests: Sewing, cosmetics
 8. Special skills/abilities: Sews costumes and does makeup for school plays 
@@ -90,19 +90,19 @@ Fill in character information here. Feel free to add categories!
 3. Height: 5'4"
 4. Eye color: brown 
 5. Race: white
-6. Physical appearance, clothing, style: A little dishevelled, wears long skirts and sweatshirts (usually stained)
+6. Physical appearance, clothing, style: A little dishevelled, dyed blue hair, wears long skirts and sweatshirts (usually stained)
 7. Hobbies/interests: Retired scientist who tinkers and invents gadgets
 8. Special skills/abilities: Robotics, mechanical engineering
 9. Things that make this character happy: Living off the income from her patents and creating new gadgets
 10. Temperament (easy-going, easily angered, etc.): Enthusiastic and friendly
 11. Insecurities: Worried that someone will sue her for her patents
-12. Any pet peeves?: When the mailman delivers her mail to the neighbors, when people call her organized chaos a mess, when people try to help her like she?s already frail, when young people make references to her dying even though she?s only 60, ... (add more here, she is particular and has many pet peeves)
+12. Any pet peeves?: When the mailman delivers her mail to the neighbors, when people call her organized chaos a mess, when people try to help her like she?s already frail, when young people make references to her dying even though she?s only 60
 13. Any notable quirks?: She drinks espresso all day
 14. Strengths: Full of gumption, always has a plan
 15. Weaknesses: Unorganized, kind of a slob, lives in chaos
 16. What's their family like? Relationship to family? Family history?: Parents are gone. She's single with no kids. Talks to her brother at Christmas.
 17. What do other people think of this character?: Some of the kids think she's a witch or practices voodoo. Most people think she's eccentric and odd.
-18. Philosophy on life: If you want someting done right, do it yourself.
+18. Philosophy on life: If you want something done right, do it yourself.
 19. Three words to describe this character: Hyper, impetuous, hubristic
 
 1. Relationship to the protagonist: Neighbor, mentor
