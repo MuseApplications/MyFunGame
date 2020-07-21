@@ -7,7 +7,7 @@ Fill in character information here. Feel free to add categories!
 2. Age: 15
 3. Height: 5'5"
 4. Eye color: Brown
-5. Race: Asian
+5. Race: Filipino-American (half or full?)
 6. Physical appearance, clothing, style: Jeans, T-shirts with video game characters on them (Overwatch, etc), sneakers
 7. Hobbies/interests: Video games, electronics, sci fi
 8. Special skills/abilities: Very intelligent. Good at science. Can fix/troubleshoot most electronics
@@ -31,7 +31,7 @@ Fill in character information here. Feel free to add categories!
 2. Age: 14
 3. Height: 5'1"
 4. Eye color: Green
-5. Race: Latina
+5. Race: ...
 6. Physical appearance, clothing, style: Leggings and flowery hand-made tops, sandals
 7. Hobbies/interests: Sewing, cosmetics
 8. Special skills/abilities: Sews costumes and does makeup for school plays 
@@ -39,7 +39,7 @@ Fill in character information here. Feel free to add categories!
 10. Temperament (easy-going, easily angered, etc.): Shy, a bit insecure, but easy-going
 11. Insecurities: Doesn't think she is good at making friends
 12. Any pet peeves?: Clothes that aren't colorful (like her hand-made tops), especially loves the color purple
-13. Any notable quirks?: Twirles her hair around her finger when she's nervous
+13. Any notable quirks?: Twirls her hair around her finger when she's nervous
 14. Strengths: Creative
 15. Weaknesses: Not assertive, socially awkward 
 16. What's their family like? Relationship to family? Family history?: Lives with parents and 3 siblings, sometimes feels lost in the crowd
@@ -60,7 +60,7 @@ Fill in character information here. Feel free to add categories!
 2. Age: 16
 3. Height: 5'10" 
 4. Eye color: Blue
-5. Race: Caucasian
+5. Race: white
 6. Physical appearance, clothing, style: Polo shirts, twill pants, Vans
 7. Hobbies/interests: Glee Club, Drama Club
 8. Special skills/abilities: Can sing well, gets the lead in school musicals
@@ -86,17 +86,17 @@ Fill in character information here. Feel free to add categories!
 
 
 1. Name: randykamradtsr (J'acqueline) 
-2. Age: 55
+2. Age: 60
 3. Height: 5'4"
-4. Eye color: Dark Brown 
-5. Race: African American
+4. Eye color: brown 
+5. Race: white
 6. Physical appearance, clothing, style: A little dishevelled, wears long skirts and sweatshirts (usually stained)
 7. Hobbies/interests: Retired scientist who tinkers and invents gadgets
 8. Special skills/abilities: Robotics, mechanical engineering
 9. Things that make this character happy: Living off the income from her patents and creating new gadgets
 10. Temperament (easy-going, easily angered, etc.): Enthusiastic and friendly
 11. Insecurities: Worried that someone will sue her for her patents
-12. Any pet peeves?: When the mailman delivers her mail to the neighbors
+12. Any pet peeves?: When the mailman delivers her mail to the neighbors, when people call her organized chaos a mess, when people try to help her like she?s already frail, when young people make references to her dying even though she?s only 60, ... (add more here, she is particular and has many pet peeves)
 13. Any notable quirks?: She drinks espresso all day
 14. Strengths: Full of gumption, always has a plan
 15. Weaknesses: Unorganized, kind of a slob, lives in chaos
