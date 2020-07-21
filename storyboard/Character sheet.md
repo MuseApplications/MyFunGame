@@ -9,9 +9,9 @@ Fill in character information here. Feel free to add categories!
 4. Eye color: Brown
 5. Race: Filipino-American (half or full?)
 6. Physical appearance, clothing, style: Jeans, T-shirts with video game characters on them (Overwatch, etc), sneakers
-7. Hobbies/interests: Video games, electronics, sci fi
+7. Hobbies/interests: Video games, sci fi
 8. Special skills/abilities: Very intelligent. Good at science. Can fix/troubleshoot most electronics
-9. Things that make this character happy: Figuring out how to fix motherboards or working with Raspberry Pi
+9. Things that make this character happy: Playing video games, working on her custom gaming computer (with fancy RGB lights), getting more blacklights for her room (stuff that shows that she?s good with electronics, but not enough that she really realizes it)
 10. Temperament (easy-going, easily angered, etc.): Easy-going, self confident, not shy
 11. Insecurities: Secretly worries she's not as attractive as her friends.
 12. Any pet peeves?: Bullies
@@ -32,7 +32,7 @@ Fill in character information here. Feel free to add categories!
 3. Height: 5'1"
 4. Eye color: Green
 5. Race: ...
-6. Physical appearance, clothing, style: Leggings and flowery hand-made tops, sandals
+6. Physical appearance, clothing, style: Leggings and flowery hand-made tops, sandals, a little old-fashioned
 7. Hobbies/interests: Sewing, cosmetics
 8. Special skills/abilities: Sews costumes and does makeup for school plays 
 9. Things that make this character happy: Creating her own clothes
@@ -65,7 +65,7 @@ Fill in character information here. Feel free to add categories!
 7. Hobbies/interests: Glee Club, Drama Club
 8. Special skills/abilities: Can sing well, gets the lead in school musicals
 9. Things that make this character happy: Being the center of attention, being the star of all the shows
-10. Temperament (easy-going, easily angered, etc.): Intense, competetive, anxious
+10. Temperament (easy-going, easily angered, etc.): Intense, competitive, anxious
 11. Insecurities: Feels like everyone is judging him, has imposter syndrome and a chip on his shoulder
 12. Any pet peeves?: People who don't like opera are jerks
 13. Any notable quirks?: Loud voice
