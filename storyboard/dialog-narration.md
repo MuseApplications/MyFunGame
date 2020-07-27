@@ -14,11 +14,11 @@ All my friends like to play (change play to hang out - MK) with boys
 ### Panel 1.4 picture of Rai looking down
 Actually, they're not really my friends
 
-### Panel 1.5 picture of Maria Rosa looking at Rai with hearts (no hearts, just smiling, eyes looking down - MK) 
-This is my only real friend, Maria Rosa
+### Panel 1.5 picture of Mia looking at Rai with hearts (no hearts, just smiling, eyes looking down - MK) 
+This is my only real friend, Mia 
 
 ### Panel 1.6 Picture of broken down electronics and computers
-(Remove And - MK) Most of my electronic projects don't work
+(Remove And - MK) Most of my electronic projects don't work. (But my mom bought me a Raspberry Pi for my birthday. I'm gonna try and make something really cool with it- MK)
 
 ## Scene 2 Bowling
 
@@ -43,10 +43,10 @@ And that(Another - MK) time at the karaoke contest, I sang my heart out and got 
 But (add then - MK) Yugyfoog brought down the house
 
 ### Panel 2.8 picture of Rai singing
-I thought I could out do him, (so I sang again - MK), but I picked a song that was too high for my alto range
+I really thought I could out do him, (so I sang again - MK), but I picked a song that was too high for my alto range
 
 ### Panel 2.9 picture of audience staring blankly
-But (Remove but - MK) Only Maria Rosa clapped, and she (soon -remove - MK) stopped when she noticed no one else was
+But (Remove but - MK) Only Mia clapped, and even she (soon -remove - MK) stopped when she noticed no one else was clapping
 
 ### Panel 2.10 picture of Rai looking dejected still in the spotlight
 So that's my life as a failure
@@ -58,27 +58,27 @@ After school -RK)
 
 ### Panel 3.1 Rai at the mailbox
 (I better check the mail before mom starts nagging...
-Oh, there’s a letter for Jacqueline in here. –RK)
+Oh, there√ïs a letter for Jacqueline in here. √êRK)
 
 One day when I was checking the mail, there was a letter for our neighbor accidentally in ours (One day, I found a letter for our neighbor in our mailbox - MK)
 
 ### Panel 3.2 Rai in front of J'acqueline's house
-I was (I’m –RK) a little nervous going up to the (her - MK) door. When we were growing up, we all (everyone - Mk) said (the boys swore –RK) she was a witch. 
-She didn't have a job, and rarely left the house. (I don’t know if she even has a job. I’ve seen her leave the house maybe two or three times, ever. -RK)
+I was (I√ïm √êRK) a little nervous going up to the (her - MK) door. When we were growing up, we all (everyone - Mk) said (the boys swore √êRK) she was a witch. 
+She didn't have a job, and rarely left the house. (I don√ït know if she even has a job. I√ïve seen her leave the house maybe two or three times, ever. -RK)
 
 ### Panel 3.3 Rai in front of the door
-But I don't believe in witches, (Definitely not a witch. –RK) that's (That’s -RK) just what you call old ladies who don't act normal (strange old ladies - MK). When I
+But I don't believe in witches, (Definitely not a witch. √êRK) that's (That√ïs -RK) just what you call old ladies who don't act normal (strange old ladies - MK). When I
 grow up, everyone will probably think I'm a witch
 
 ### Panel 3.4 Rai shaking hands with the mechanical hand
-Next to the door was (is –RK) a gloved hand attached to the wall. I put my hand up to it (reached for it. - MK) and it grabbed my hand,
-shook it, and said 'welcome'. (It grabbed my hand!! Oh, it’s shaking it. That’s… okay. ‘Welcome.’ –RK) Off in the distance, a gong sounded. (Wut –RK)
+Next to the door was (is √êRK) a gloved hand attached to the wall. I put my hand up to it (reached for it. - MK) and it grabbed my hand,
+shook it, and said 'welcome'. (It grabbed my hand!! Oh, it√ïs shaking it. That√ïs√â okay. √îWelcome.√ï √êRK) Off in the distance, a gong sounded. (Wut √êRK)
 
 ### Panel 3.5 Rai handing J'acqueline her box
 Curse that mailman, he's always making mistakes (he's always giving my mail to everyone but me - MK)! Next time I'm going to sic my mechanical dog on him
 
 ### Panel 3.6 Rai looking amazed
-You, you, you (You... you –RK) have a mechanical dog?
+You, you, you (You... you √êRK) have a mechanical dog?
 
 ### Panel 3.7 J'acqueline looking slightly annoyed
 Doesn't everyone? Would you like to meet her?
@@ -87,7 +87,7 @@ Doesn't everyone? Would you like to meet her?
 Erector! Erector come down and meet this young lady
 
 ### Panel 3.9 Rai playing with a mechanical dog (with Jacqueline already at her workbench nearby -RK)
-My name is Rai, her (I'm Rai, by the way. And her –RK) name is Erector?
+My name is Rai, her (I'm Rai, by the way. And her √êRK) name is Erector?
 
 ### Panel 3.10 J'acqueline with a welding mask on welding something in the corner (note: this panel is unnecessary. Put this dialogue in the Panel 3.11 -RK)
 Yes, I built her when I was your age with an Erector set I stole from my brother. Of course,
@@ -100,30 +100,30 @@ I love (liked -RK) your doorbell, did you create that?
 Yes, my specialty is mechanical hands, would you like one? It doesn't actually do anything.
 (Sure! -RK)
 
-## Scene 4 Back at Rai's house in her room with Maria Rosa
+## Scene 4 Back at Rai's house in her room with Mia
 
 ### Panel 4.1 Rai staring at the mechanical hand
 I bet if I hooked this up with my raspberry pi I could make it move. But what should it do?
 
-### Panel 4.2 Maria Rosa
+### Panel 4.2 Mia
 I can bake a raspberry pie, but how would that make it move?
 
 ### Panel 4.3 Rai 
 Not that kind of pie! a P-I pi. It's like a little computer
 
-### Panel 4.4 Maria Rosa looking embarrassed.
+### Panel 4.4 Mia looking embarrassed.
 Oh. Well, since it's a single hand, maybe you can teach it to play solitaire
 
 ### Panel 4.5 Rai with a light bulb over her head
 That's a great idea! I'm glad I thought of it!
 
-### Panel 4.6 Maria Rosa looking a little angry (dejected - MK)
+### Panel 4.6 Mia looking a little angry (dejected - MK)
 You know the science fair is tomorrow, can you do it by then?
 
 ### Panel 4.7 Rai busy connecting wires
 ...
 
-### Panel 4.8 Maria Rosa
+### Panel 4.8 Mia
 Can I help?
 
 ### Panel 4.10 repeat of Panel 4.7
@@ -139,17 +139,17 @@ This will never work! the mechanical hand can't move the cards around!
 
 ### Panel 5.2 Maria Rosa with a light bulb
 How about if I sew it some gloves (Maybe I can sew it a glove - MK) made of vinyl. You know how you always
-stick to vinyl furniture?
+stick to vinyl furniture? (And I could sew a sleeve with the same material I used to make this top! - MK)
 
 ### Panel 5.3 Rai with her head on her desk
 Sure, what can it hurt? (let's give it a shot. -RK)
 
 ### Panel 5.4 Pictured from above, Rai alone in her room next to the mechanical hand
 
-### Panel 5.5 Maria Rosa rushing in sweating holding up a glove
-I made these (this - Mk) as quick as I could!
+### Panel 5.5 Mia rushing in sweating holding up a glove
+I made these (this - Mk) as quick as I could! (I think the sleeve is pretty! - MK)
 
-### Panel 5.6 Rai and Maria Rosa stare amazed at the gloved hand moving the cards around
+### Panel 5.6 Rai and Mia stare amazed at the gloved hand moving the cards around
 ...
 
 ## Scene 6 Science Fair
@@ -168,7 +168,7 @@ My parents forced me to do this! They want me to become a scientist like my big 
 want to be a ballet dancer. But men are repressed and expected to do man things. I'm just a victim
 of society!
 
-### Panel 6.7 Maria Rosa secretly adds more baking soda while Yugyfoog continues to whine
+### Panel 6.7 Mia secretly adds more baking soda while Yugyfoog continues to whine
 How can I excel at what I want when everyone expects me to play football and date cheerleaders?
 
 ### Panel 6.8 The volcano explodes again spraying goo all over Yugyfoog
@@ -185,7 +185,7 @@ Look what I did with your mechanical hand!
 ### Panel 6.12 The judges pin a blue ribbon on Rai's panel and everyone applauds. Yugyfoog looks angry at being bested and yells
 You just wait until the ballet competition next month! You'll see! They all said I was crazy, but I'll show all of you!
 
-### Panel 6.13 J'acqueline leans down to Rai and Maria Rosa's level
+### Panel 6.13 J'acqueline leans down to Rai and Mia's level
 You two should join me as inventors! I can do the mechanical stuff well enough, but all these computers and stuff (change stuff to electronic crap - MK) make my head spin
 
 ### Panel 6.14 Rai looks up at J'acqueline
@@ -194,7 +194,7 @@ Wow, do you really need us? I thought you were (an - MK) expert at everything
 ### Panel 6.15 J'acqueline laughs
 No one is (an - MK) expert at everything! Now I expect you two to help me on my next project, a robotic vacuum!
 
-### Panel 6.16 Rai and Maria Rosa laugh
+### Panel 6.16 Rai and Mia laugh
 There's already a robotic vacuum!
 
 ### Panel 6.17 J'acqueline smiles (winks? - MK)
@@ -202,7 +202,7 @@ Yes, but mine also does counters, sinks, windows, and toilets.
 
 ## Scene 7 Epilogue
 
-### Panel 7.1 J'acqueline, Rai, and Maria Rosa sipping drinks on a veranda on a tropic island
+### Panel 7.1 J'acqueline, Rai, and Mia sipping drinks on a veranda on a tropic island
 *The End*
 
 
