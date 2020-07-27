@@ -53,26 +53,32 @@ So that's my life as a failure
 
 ## Scene 3 J'acqueline's house
 
+(### Panel 3.0 Black
+After school -RK)
+
 ### Panel 3.1 Rai at the mailbox
+(I better check the mail before mom starts nagging...
+Oh, there’s a letter for Jacqueline in here. –RK)
+
 One day when I was checking the mail, there was a letter for our neighbor accidentally in ours (One day, I found a letter for our neighbor in our mailbox - MK)
 
 ### Panel 3.2 Rai in front of J'acqueline's house
-I was a little nervous going up to the (her - MK) door. When we were growing up, we all (everyone - Mk) said she was a witch. 
-She didn't have a job, and rarely left the house.
+I was (I’m –RK) a little nervous going up to the (her - MK) door. When we were growing up, we all (everyone - Mk) said (the boys swore –RK) she was a witch. 
+She didn't have a job, and rarely left the house. (I don’t know if she even has a job. I’ve seen her leave the house maybe two or three times, ever. -RK)
 
 ### Panel 3.3 Rai in front of the door
-But I don't believe it witches, that's just what you call old ladies who don't act normal (strange old ladies - MK). When I
+But I don't believe in witches, (Definitely not a witch. –RK) that's (That’s -RK) just what you call old ladies who don't act normal (strange old ladies - MK). When I
 grow up, everyone will probably think I'm a witch
 
 ### Panel 3.4 Rai shaking hands with the mechanical hand
-Next to the door was a gloved hand attached to the wall. I put my hand up to it (reached for it - MK) and it grabbed my hand,
-shook it, and said 'welcome'. Off in the distance, a gong sounded.
+Next to the door was (is –RK) a gloved hand attached to the wall. I put my hand up to it (reached for it. - MK) and it grabbed my hand,
+shook it, and said 'welcome'. (It grabbed my hand!! Oh, it’s shaking it. That’s… okay. ‘Welcome.’ –RK) Off in the distance, a gong sounded. (Wut –RK)
 
 ### Panel 3.5 Rai handing J'acqueline her box
 Curse that mailman, he's always making mistakes (he's always giving my mail to everyone but me - MK)! Next time I'm going to sic my mechanical dog on him
 
 ### Panel 3.6 Rai looking amazed
-You, you, you have a mechanical dog?
+You, you, you (You... you –RK) have a mechanical dog?
 
 ### Panel 3.7 J'acqueline looking slightly annoyed
 Doesn't everyone? Would you like to meet her?
@@ -80,18 +86,19 @@ Doesn't everyone? Would you like to meet her?
 ### Panel 3.8 Interiour of J'acqueline's house filled with odd contraptions
 Erector! Erector come down and meet this young lady
 
-### Panel 3.9 Rai playing with a mechanical dog
-My name is Rai, her name is Erector?
+### Panel 3.9 Rai playing with a mechanical dog (with Jacqueline already at her workbench nearby -RK)
+My name is Rai, her (I'm Rai, by the way. And her –RK) name is Erector?
 
-### Panel 3.10 J'acqueline with a welding mask on welding something in the corner
+### Panel 3.10 J'acqueline with a welding mask on welding something in the corner (note: this panel is unnecessary. Put this dialogue in the Panel 3.11 -RK)
 Yes, I built her when I was your age with an Erector set I stole from my brother. Of course,
 I didn't add the motorized stuff until I was in college.
 
-### Panel 3.11 Rai looking over J'acqueline's workbench
-I love your doorbell, did you create that? 
+### Panel 3.11 Rai looking over J'acqueline's workbench (ditto -RK)
+I love (liked -RK) your doorbell, did you create that? 
 
-### Panel 3.11 J'acqueline giving Rai a mechanical hand
+### Panel 3.11 J'acqueline giving Rai a mechanical hand (ditto -RK)
 Yes, my specialty is mechanical hands, would you like one? It doesn't actually do anything.
+(Sure! -RK)
 
 ## Scene 4 Back at Rai's house in her room with Maria Rosa
 
@@ -197,5 +204,6 @@ Yes, but mine also does counters, sinks, windows, and toilets.
 
 ### Panel 7.1 J'acqueline, Rai, and Maria Rosa sipping drinks on a veranda on a tropic island
 *The End*
+
 
 
