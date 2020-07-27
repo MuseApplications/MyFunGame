@@ -135,14 +135,14 @@ I'll get some energy drinks, it sounds like it will be a long night.
 ## Scene 5 Early morning in Rai's bedroom
 
 ### Panel 5.1 Rai looking frustrated
-This will never work! the machanical hand can't move the cards around!
+This will never work! the mechanical hand can't move the cards around!
 
 ### Panel 5.2 Maria Rosa with a light bulb
 How about if I sew it some gloves (Maybe I can sew it a glove - MK) made of vinyl. You know how you always
 stick to vinyl furniture?
 
 ### Panel 5.3 Rai with her head on her desk
-Sure, what can it hurt?
+Sure, what can it hurt? (let's give it a shot. -RK)
 
 ### Panel 5.4 Pictured from above, Rai alone in her room next to the mechanical hand
 
@@ -165,8 +165,8 @@ As soon as the pressure from the magma is high enough KABLOOEY!
 
 ### Panel 6.4 Yugyfoog starts crying
 My parents forced me to do this! They want me to become a scientist like my big brother. But I just (remove just - MK)
-want to be a ballet dancer. But men are repressed and expected to to man things. I'm just a victim
-of scociety!
+want to be a ballet dancer. But men are repressed and expected to do man things. I'm just a victim
+of society!
 
 ### Panel 6.7 Maria Rosa secretly adds more baking soda while Yugyfoog continues to whine
 How can I excel at what I want when everyone expects me to play football and date cheerleaders?
