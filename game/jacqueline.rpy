@@ -1,7 +1,8 @@
 # Scene 3 Jacqueline's house
 
 label jacqueline:
-
+      scene jaqueline
+      
       show text "After school" at truecenter
       with dissolve
       pause 1

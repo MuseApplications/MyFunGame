@@ -1,7 +1,8 @@
 # Scene 2.5 Jacqueline's house
 
 label karaoke:
-
+      scene karaoke
+      
       rai "And that time at the karaoke contest, I sang my heart out and got lots of applause."
 
       rai "But then [yf] brought down the house."

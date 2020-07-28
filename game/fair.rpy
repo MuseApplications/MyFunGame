@@ -1,6 +1,7 @@
 # Scene 6 Science Fair
 
 label fair:
+      scene fair
       play music "audio/scene4.mp3"
       show text "Science Fair" at truecenter
       with dissolve
