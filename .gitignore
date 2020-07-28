@@ -4,3 +4,6 @@ game/saves
 *.rpyc
 log.txt
 *.rpymc
+*~
+traceback.txt
+errors.txt

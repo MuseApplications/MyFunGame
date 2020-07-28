@@ -13,7 +13,8 @@
 #
 
 define rai = Character("Rai", color="80ffff")
-define mr = Character("MaryRose", color="#ffcccc")
-define yf = Character("Yugyfoog", color="#80ff80")
-define rk = Character("Randal Lee Kamradt, Sr.", color="#000000")
+define mia = Character("Mia", color="#ffcccc")
+define yf = Character("John", color="#80ff80")
+define rk = Character("Jacqueline", color="#808080")
+
 
