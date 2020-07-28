@@ -5,7 +5,7 @@ label house:
 
       rai "I bet if I hooked this up with my raspberry pi I could make it move. But what should it do?"
 
-      mia "I can bake a raspberry pie, bit how would that make it move?"
+      mia "I can bake a raspberry pie, but how would that make it move?"
 
       rai "Not that kind of pie! A P-I pi. It's like a little computer."
 
@@ -13,7 +13,7 @@ label house:
 
       rai "That's a great idea! I'm glad I thought of it!"
 
-      rai "You know the science fair is tomorrow, can you do it by then?"
+      mia "You know the science fair is tomorrow, can you do it by then?"
 
       "..."
 

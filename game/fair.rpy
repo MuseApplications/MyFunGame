@@ -2,10 +2,15 @@
 
 label fair:
       play music "audio/scene4.mp3"
+      show text "Science Fair" at truecenter
+      with dissolve
+      pause 1.5
+      hide text
+      with dissolve
 
       yf "I bet no one ever thought of this!"
 
-      "The Judges approach and eye his vocano suspiciously. [yf] holds the detonator button. As soon as the pressure from the magma is high enough KABLOOEY!"
+      yf "As soon as the pressure from the magma is high enough KABLOOEY!"
 
       "..."
 
@@ -19,9 +24,9 @@ label fair:
 
       "The mechanical hand whirs into action and everyone stands back amazed as it flips over the cards and moves them around."
 
-      yf "You just wait until the ballet competition next month! You'll see! They all said I was crazy, bit I'll show all of you!"
+      yf "You just wait until the ballet competition next month! You'll see! They all said I was crazy, but I'll show all of you!"
 
-      rk "You two should join me as inventors! I can do the mechanical stuff well enough, bit all these computers and stuff make my head spin."
+      rk "You two should join me as inventors! I can do the mechanical stuff well enough, but all these computers and stuff make my head spin."
 
       rai "Wow, do you really need us? I thought you were an expert at everything."
 

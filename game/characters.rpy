@@ -12,7 +12,7 @@
 #            Yugyfoog sucks!
 #
 
-define rai = Character("Rai", color="80ffff")
+define rai = Character("Ruby", color="80ffff")
 define mia = Character("Mia", color="#ffcccc")
 define yf = Character("John", color="#80ff80")
 define rk = Character("Jacqueline", color="#808080")

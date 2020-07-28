@@ -9,7 +9,7 @@ label jacqueline:
       with dissolve
       play music "audio/scene2.mp3"
 
-      rai "I better check the mail before mom starts nagging... Oh, there's a letter for Jacqueline in here."
+      rai "I better check the mail before mom starts nagging... Oh, there's a letter for my neighbor Jacqueline in here."
 
       rai "I'm a little nervous going up to her door. When we were growing up, exeryone said she was a witch. She didn't have a job, and rarely left the house. I don't know if she even has a job. I've seen her leave the house maybe two or three times, ever."
 
@@ -25,7 +25,7 @@ label jacqueline:
 
       rai "You, you, you have a mechanical dog?"
 
-      rk "Doesn't everyone? Would you like to meet here?"
+      rk "Doesn't everyone? Would you like to meet her?"
 
       rk "Erector! Erector come down and meet this young lady."
 
@@ -33,7 +33,7 @@ label jacqueline:
 
       rk "Yes, I built her when I was your age with an Erector set I stole from my brother. Of course, I didn't add the motorized stuff until I was in college."
 
-      rai "I love you doorbell, did you create that?"
+      rai "I love your doorbell, did you create that?"
 
       rk "Yes, my specialty is mechanical hands, would you like one? It doesn't actually do anything."
       show text "Sure!" at truecenter

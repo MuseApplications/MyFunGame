@@ -2,7 +2,7 @@
 
 label introduction:
 
-      rai "Hi, I'm Rai. I'm a normal teenager."
+      rai "Hi, I'm [rai]. I'm a normal teenager."
 
       rai "Well..."
 
@@ -10,7 +10,7 @@ label introduction:
 
       rai "All my friends like to hang out with boys."
 
-      rai "Actually, thet're not really my friends."
+      rai "Actually, they're not really my friends."
 
       rai "This is my only real friend, [mia]."
 
