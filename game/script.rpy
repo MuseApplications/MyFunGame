@@ -3,7 +3,7 @@
 # The game starts here.
 
 label start:
-    play music "audio/scene1.mp3"
+    play music "audio/scene1.mp3" fadeout 2.0
 
     "Life of [rai]"
 
@@ -12,7 +12,7 @@ label start:
 
 
 label end:
-    play music "audio/scene5.mp3"
+    play music "audio/scene5.mp3" fadeout 2.0
 
     "The end."
 

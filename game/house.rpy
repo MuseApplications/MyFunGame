@@ -3,7 +3,7 @@
 label house:
       scene house
 
-      play music "audio/scene3.mp3"
+      play music "audio/scene3.mp3" fadeout 2.0
 
       rai "I bet if I hooked this up with my raspberry pi I could make it move. But what should it do?"
 

@@ -2,13 +2,13 @@
 
 label jacqueline:
       scene jaqueline
-      
+
       show text "After school" at truecenter
       with dissolve
       pause 1
       hide text
       with dissolve
-      play music "audio/scene2.mp3"
+      play music "audio/scene2.mp3" fadeout 2.0
 
       rai "I better check the mail before mom starts nagging... Oh, there's a letter for my neighbor Jacqueline in here."
 
