@@ -16,7 +16,7 @@ label jacqueline:
 
       rai "But I don't believe in witches.  That's just what you call old ladies who don't act normal. When I grow up, everyone will probably think I'm a witch."
 
-      rai "Next to the door is a gloved hand attached to the wall. I reached for it and it grabbed my hand, shook it, and said \"welcome\". Off in the distance, a gong sounded."
+      "Next to the door is a gloved hand attached to the wall. When she reaches for it, it grabs her hand, shakes it, and say \"welcome\". Off in the distance, a gong sounds."
 
       rk "Curse that mailman, he's always making mistakes! Next time I'm going to sic my mechanical dog on him."
 
