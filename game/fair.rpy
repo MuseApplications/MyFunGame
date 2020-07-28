@@ -1,6 +1,7 @@
 # Scene 6 Science Fair
 
 label fair:
+      play music "audio/scene4.mp3"
 
       yf "I bet no one ever thought of this!"
 
@@ -31,4 +32,3 @@ label fair:
       rk "Yes, but mine also does counters, sinks, windows, and toilets."
 
       jump end
-      

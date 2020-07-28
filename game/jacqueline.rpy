@@ -7,7 +7,8 @@ label jacqueline:
       pause 1
       hide text
       with dissolve
-      
+      play music "audio/scene2.mp3"
+
       rai "I better check the mail before mom starts nagging... Oh, there's a letter for Jacqueline in here."
 
       rai "I'm a little nervous going up to her door. When we were growing up, exeryone said she was a witch. She didn't have a job, and rarely left the house. I don't know if she even has a job. I've seen her leave the house maybe two or three times, ever."
@@ -34,13 +35,11 @@ label jacqueline:
 
       rai "I love you doorbell, did you create that?"
 
-      rk "Yes, my specialty is mechanical hands, would you like one? It doesn't actually do anything."      
+      rk "Yes, my specialty is mechanical hands, would you like one? It doesn't actually do anything."
       show text "Sure!" at truecenter
       with dissolve
       pause 1
       hide text
       with dissolve
-      
+
       jump house
-      
-      

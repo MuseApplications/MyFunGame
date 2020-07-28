@@ -1,6 +1,7 @@
 # scene 4 Back at Rai's house in her room with Mia
 
 label house:
+      play music "audio/scene3.mp3"
 
       rai "I bet if I hooked this up with my raspberry pi I could make it move. But what should it do?"
 
