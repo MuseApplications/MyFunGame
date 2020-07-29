@@ -4,6 +4,7 @@
 
 label start:
     play music "audio/scene1.mp3" fadeout 2.0
+    scene theend
 
     "Life of [rai]"
 
@@ -13,6 +14,7 @@ label start:
 
 label end:
     play music "audio/scene5.mp3" fadeout 2.0
+    scene theend
 
     "The end."
 

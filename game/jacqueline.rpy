@@ -16,7 +16,7 @@ label jacqueline:
 
       rai "I'm a little nervous going up to her door. When we were growing up, the neigborhood boys swore she was a witch."
 
-      rai "I don't know if she even has a job. I've seen her leave the house maybe two or three times, ever"
+      rai "I don't know if she even has a job. I've seen her leave the house maybe two or three times, ever."
 
       rai "But I don't believe in witches. That's just what you call old ladies who don't act normal. When I grow up, everyone will probably think I'm a witch."
 

@@ -16,6 +16,6 @@ label introduction:
 
       rai "This is my only real friend, [mia]."
 
-      rai "Most of my electronic projects don't work. But my mom bought me a Raspberry Pi for my birthday. I'm gonna try and make something really cool with it. Not sure what, though"
+      rai "Most of my electronic projects don't work. But my mom bought me a Raspberry Pi for my birthday. I'm gonna try and make something really cool with it. Not sure what, though."
 
       jump bowling
