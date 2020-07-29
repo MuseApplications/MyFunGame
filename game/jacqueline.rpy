@@ -12,7 +12,7 @@ label jacqueline:
 
       rai "I better check the mail before mom starts nagging..."
 
-      rai "Oh, there's a letter for my neighbor Jacqueline in here."
+      rai "Oh, there's a letter for my neighbor [rk] in here."
 
       rai "I'm a little nervous going up to her door. When we were growing up, the neigborhood boys swore she was a witch."
 
@@ -24,9 +24,14 @@ label jacqueline:
 
       rai "It grabbed my hand!!! Oh, it's shaking it. That's...okay."
 
-      "Welcome"
+      show text "Welcome" at truecenter
+      pause 1.5
+      hide text
+      with dissolve
 
-      rk "Curse that mailman, he's always making mistakes! Next time I'm going to sic my mechanical dog on him."
+      "Off in the distance, a gong sounded."
+
+      rk "Curse that mailman, he's always giving my mail to everyone but me! Next time I'm going to sic my mechanical dog on him."
 
       rai "You,"
 
@@ -42,7 +47,7 @@ label jacqueline:
 
       rk "Yes, I built her when I was your age with an Erector set I stole from my brother. Of course, I didn't add the motorized stuff until I was in college."
 
-      rai "I love your doorbell, did you create that?"
+      rai "I liked your doorbell, did you create that?"
 
       rk "Yes, my specialty is mechanical hands, would you like one? It doesn't actually do anything."
 

@@ -13,9 +13,11 @@ label fair:
 
       yf "As soon as the pressure from the magma is high enough KABLOOEY!"
 
-      "The volcano explodes and gets goop all over John and the judges."
+      "The volcano explodes and gets goop all over [yf] and the judges."
 
-      rai "Oh no, here are the judges. Okay Ruby time to show them what you're made of."
+      "..."
+ 
+      rai "Oh no, here are the judges. Okay [rai] time to show them what you're made of."
 
       rai "I turn on the switch. The mechanical hand whirs into action and everyone stands back amazed as it flips over the cards and moves them around."
 
@@ -23,7 +25,7 @@ label fair:
 
       rai "Hot damn, I even got the blue ribbon!!"
 
-      yf "Hey Ruby, congrats on your win."
+      yf "Hey [rai], congrats on your win."
 
       rai "Oh, thanks..."
 
