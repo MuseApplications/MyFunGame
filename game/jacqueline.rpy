@@ -41,11 +41,6 @@ label jacqueline:
 #
 #      rai "You, you, you have a mechanical dog?"
 #
-#      rk "Doesn't everyone? Would you like to meet her?"
-#
-#      rk "Erector! Erector come down and meet this young lady."
-#
-#      rai "I'm [rai], by the way. And her name is Erector?"
 
 $menu_bitmap = 3
 
@@ -105,6 +100,12 @@ label choice1_C:
       jump do_menu
 
 label all_done:
+
+      rk "Doesn't everyone? Would you like to meet her?"
+
+      rk "Erector! Erector come down and meet this young lady."
+
+      rai "I'm [rai], by the way. And her name is Erector?"
 
       rk "Yes, I built her when I was your age with an Erector set I stole from my brother. Of course, I didn't add the motorized stuff until I was in college."
 

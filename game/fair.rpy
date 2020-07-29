@@ -50,8 +50,42 @@ label fair:
       rk "And the glove? You did that as well?"
 
       rai "As a matter of fact..."
+      
+label try_again:
 
-      rai "I'm kidding, I'm kidding! Go on, tell her."
+if (kiss_flag):
+    menu:
+        "[mia] did it!":
+            jump mia_did_it
+        "I did it!":
+            jump i_did_it
+        "KISS HER":
+            jump kiss_again
+else:
+
+    menu:
+        "[mia] did it!":
+            jump mia_did_it
+        "I did it!":
+            jump i_did_it
+
+
+
+label kiss_again:
+
+    rai "NO WHAT STOP"
+
+    rai "[mia] finally speaks up, which is good, because I choked on my own spit and had started couging by this point."
+
+    jump mia_did_it
+    
+label i_did_it:
+
+    rai "Something powdery falls onto my head. A lot of it, actually. Is it snowing?! Oh, nope, [mia] just dumped the remainder of the box of baking soda onto my head."
+
+    jump mia_did_it
+
+label mia_did_it:
 
       mia "It - it was me, ma'am"
 
