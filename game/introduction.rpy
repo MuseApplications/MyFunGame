@@ -1,7 +1,6 @@
 # Scene 1 Introductions
 
 label introduction:
-
       scene introduction
 
       rai "Hi, I'm [rai]. I'm a normal teenager."
