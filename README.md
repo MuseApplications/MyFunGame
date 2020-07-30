@@ -1,11 +1,3 @@
-<style>
-  div {
-    background-color black;
-  }
-</style>
-<div>
-  text
-</div
 # MyFunGame
 A simple game created from renpy
 
