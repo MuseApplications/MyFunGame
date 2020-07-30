@@ -5,7 +5,7 @@ label house:
 
       play music "audio/scene3.mp3" fadeout 2.0
 
-      rai "I bet if I hooked this up with my raspberry pi I could make it move. But what should it do?"
+      rai "I bet if I hooked this up with my Raspberry Pi I could make it move. But what should it do?"
 
       mia "I can bake a raspberry pie, but how would that make it move?"
 

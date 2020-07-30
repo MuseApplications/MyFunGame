@@ -30,6 +30,7 @@ define config.version = "0.0.1"
 ## triple-quotes, and leave a blank line between paragraphs.
 
 define gui.about = _("""
+
 Project management: Rachel
 Programming: Dad (lead), Rachel
 Layout: Rachel
