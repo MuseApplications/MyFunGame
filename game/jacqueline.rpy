@@ -1,14 +1,17 @@
 # Scene 3 Jacqueline's house
 
 label jacqueline:
+      scene black
+
+      show text "After school" at truecenter
+      with fade
+      pause 1.5
+      hide text
+      with dissolve
+
       scene jaqueline
       with fade
 
-      show text "After school" at truecenter
-      with dissolve
-      pause 1
-      hide text
-      with dissolve
       play music "audio/scene2.mp3" fadeout 2.0
 
       rai "I better check the mail before mom starts nagging..."
@@ -25,9 +28,10 @@ label jacqueline:
 
       rai "It grabbed my hand!!! Oh, it's shaking it. That's...okay."
 
-      show text "Welcome" at truecenter
+      show welcome at truecenter
+      with dissolve
       pause 1.5
-      hide text
+      hide welcome
       with dissolve
 
       "Off in the distance, a gong sounded."
@@ -114,9 +118,9 @@ label all_done:
 
       rk "Yes, my specialty is mechanical hands, would you like one? It doesn't actually do anything."
 
-      show text "Sure!" at truecenter
+      show sure at truecenter
       with dissolve
-      pause 1
+      pause 1.5
       hide text
       with dissolve
 

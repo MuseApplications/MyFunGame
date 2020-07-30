@@ -1,5 +1,14 @@
 ﻿# characters defined in 'characters.rpy'
 
+
+style my_style is text:
+    size 40
+    color "#ffffff"
+    outlines [ (absolute(3), "#000000", absolute(0), absolute(0)) ]
+
+image sure = Text("Sure!", style="my_style")
+image welcome = Text("Welcome", style="my_style")
+
 # The game starts here.
 
 label start:

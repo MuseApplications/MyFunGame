@@ -1,14 +1,18 @@
 # Scene 6 Science Fair
 
 label fair:
+      scene black
+      show text "Science Fair" at truecenter
+      with fade
+      pause 1.5
+      with dissolve
+      hide text
+      with dissolve
+
       scene fair
       with fade
       play music "audio/scene4.mp3" fadeout 2.0
-      show text "Science Fair" at truecenter
-      with dissolve
-      pause 1.5
-      hide text
-      with dissolve
+
 
       yf "I bet no one ever thought of this!"
 
