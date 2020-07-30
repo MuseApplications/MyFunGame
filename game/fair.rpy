@@ -2,6 +2,7 @@
 
 label fair:
       scene fair
+      with fade
       play music "audio/scene4.mp3" fadeout 2.0
       show text "Science Fair" at truecenter
       with dissolve

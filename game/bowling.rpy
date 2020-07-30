@@ -2,6 +2,7 @@
 
 label bowling:
       scene bowling
+      with fade
 
       rai "This is my tormentor, [yf]. He's good at everything and likes to show off."
 

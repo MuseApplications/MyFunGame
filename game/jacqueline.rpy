@@ -2,6 +2,7 @@
 
 label jacqueline:
       scene jaqueline
+      with fade
 
       show text "After school" at truecenter
       with dissolve
