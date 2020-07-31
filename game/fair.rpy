@@ -46,7 +46,7 @@ label fair:
 
       mia "I wasn't sure how to rescue you, so I put more baking soda in the volcano."
 
-      rai "A national hero"
+      rai "A national hero."
 
       rk "I see you put my mechanical hand to good use."
 
