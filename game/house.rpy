@@ -1,7 +1,7 @@
 # scene 4 Back at Rai's house in her room with Mia
 
 label house:
-      scene house
+      scene deskback
       with fade
 
       rai "I bet if I hooked this up with my Raspberry Pi I could make it move. But what should it do?"

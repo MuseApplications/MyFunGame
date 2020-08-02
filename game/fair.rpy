@@ -70,7 +70,13 @@ label fair:
 
     yf "It's quite a lot of pressure for a young, vigorous man like me, and..."
 
+    scene sfvolcano
+    with fade
+
     "Suddenly [yf]'s volcano erupts again! It looks like Ms. Gupta, our principal, got gooped. [yf] rushes over to apologize."
+
+    scene sfhand
+    with fade
 
     mia "I wasn't sure how to rescue you, so I put more baking soda in the volcano."
 

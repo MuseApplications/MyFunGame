@@ -12,6 +12,9 @@ label introduction:
 
       rai "Well..."
 
+      scene deskback
+      with fade
+
       rai "Well... not so normal. I like electronics and computers."
       scene crowd
       with fade
@@ -24,6 +27,9 @@ label introduction:
       with fade
 
       rai "This is my only real friend, [mia]."
+
+      scene deskback
+      with fade
 
       rai "Most of my electronic projects don't work."
 

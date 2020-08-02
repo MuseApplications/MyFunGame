@@ -113,6 +113,9 @@ label all_done:
 
       rk "Erector! Erector come down and meet this young lady."
 
+      scene jhouseint
+      with fade
+
       rai "I'm [rai], by the way. And her name is Erector?"
 
       rk "Yes, I built her when I was your age with an Erector set I stole from my brother. Of course, I didn't add the motorized stuff until I was in college."
