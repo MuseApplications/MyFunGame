@@ -9,7 +9,7 @@ label fair:
     hide text
     with dissolve
 
-    scene fair
+    scene sfvolcano
     with fade
 
 
@@ -44,6 +44,9 @@ label fair:
 
 
     "The volcano explodes and gets goop all over [yf] and the judges."
+
+    scene sfhand
+    with fade
 
     "..."
 

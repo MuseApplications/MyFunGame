@@ -22,7 +22,11 @@ label introduction:
 
       scene lockers
       with fade
+      
       rai "This is my only real friend, [mia]."
+
+      scene raspberrypi
+      with fade
 
       rai "Most of my electronic projects don't work. But my mom bought me a Raspberry Pi for my birthday. I'm gonna try and make something really cool with it. Not sure what, though."
 
