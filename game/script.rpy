@@ -12,7 +12,6 @@ image welcome = Text("Welcome", style="my_style")
 # The game starts here.
 
 label start:
-#    scene thend # replace with another file when avaliable
     play music "audio/scene1.mp3" fadeout 2.0
     scene theend
     with fade

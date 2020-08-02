@@ -3,6 +3,10 @@
 label introduction:
       scene introduction
       with fade
+
+      show rai headshot at truecenter:
+          zoom 1.7
+      with dissolve
       
       rai "Hi, I'm [rai]. I'm a normal teenager."
 
