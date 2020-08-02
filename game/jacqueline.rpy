@@ -9,7 +9,7 @@ label jacqueline:
       hide text
       with dissolve
 
-      scene jaqueline
+      scene mailbox
       with fade
 
       play music "audio/scene2.mp3" fadeout 2.0
@@ -18,23 +18,28 @@ label jacqueline:
 
       rai "Oh, there's a letter for my neighbor [rk] in here."
 
+      scene jhouseout
+      with fade
+
       rai "I'm a little nervous going up to her door. When we were growing up, the neigborhood boys swore she was a witch."
 
       rai "I don't know if she even has a job. I've seen her leave the house maybe two or three times, ever."
 
       rai "But I don't believe in witches. That's just what you call old ladies who don't act normal. When I grow up, everyone will probably think I'm a witch."
 
+      scene jhouseoutclose
+      with fade
+
       rai "Next to the door is a gloved hand attached to the wall. I reached for it."
+
+      scene welcome
+      with fade
 
       rai "It grabbed my hand!!! Oh, it's shaking it. That's...okay."
 
-      show welcome at truecenter
-      with dissolve
-      pause 1.5
-      hide welcome
-      with dissolve
 
-      "Off in the distance, a gong sounded."
+      scene jdoor
+      with fade
 
       rk "Curse that mailman, he's always giving my mail to everyone but me! Next time I'm going to sic my mechanical dog on him."
 
@@ -72,10 +77,10 @@ if menu_bitmap == 3:
     menu:
          "You... you have a mechanical dog?":
               jump all_done
-          
+
          "Are you a witch?":
               jump choice1_B
-          
+
          "...Wut.":
               jump choice1_C
 
@@ -87,7 +92,7 @@ label choice1_A:
 label choice1_B:
 
     $menu_bitmap -= 1
-    
+
     rk "Excuse me? I'll have you know that my myriad accomplishments in locomotion and automation have nothing to do with simple witchcraft, but are in fact the result of my prodigious technological know-how!"
 
     rai "She seems flustered but doesn't slam the door in my face. Yikes. I'm not sure why I'd ask anyway. Did I think she'd tell me yes?"
