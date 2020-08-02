@@ -11,7 +11,6 @@ label fair:
 
     scene fair
     with fade
-    play music "audio/scene4.mp3" fadeout 2.0
 
 
     yf "I bet no one ever thought of this!"
@@ -28,7 +27,7 @@ label fair:
         for i in lava_sprites:
             i.x = x_start + 10*renpy.random.random() - 5
             i.y = y_start + 10*renpy.random.random() - 5
-    
+
         del blob
         del i
 
@@ -47,7 +46,7 @@ label fair:
     "The volcano explodes and gets goop all over [yf] and the judges."
 
     "..."
- 
+
     rai "Oh no, here are the judges. Okay [rai] time to show them what you're made of."
 
     rai "I turn on the switch. The mechanical hand whirs into action and everyone stands back amazed as it flips over the cards and moves them around."
@@ -81,7 +80,7 @@ label fair:
     rk "And the glove? You did that as well?"
 
     rai "As a matter of fact..."
-      
+
 label try_again:
 
 if (kiss_flag):
@@ -109,7 +108,7 @@ label kiss_again:
     rai "[mia] finally speaks up, which is good, because I choked on my own spit and had started couging by this point."
 
     jump mia_did_it
-    
+
 label i_did_it:
 
     rai "Something powdery falls onto my head. A lot of it, actually. Is it snowing?! Oh, nope, [mia] just dumped the remainder of the box of baking soda onto my head."

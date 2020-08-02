@@ -12,8 +12,6 @@ label jacqueline:
       scene mailbox
       with fade
 
-      play music "audio/scene2.mp3" fadeout 2.0
-
       rai "I better check the mail before mom starts nagging..."
 
       rai "Oh, there's a letter for my neighbor [rk] in here."

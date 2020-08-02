@@ -3,8 +3,6 @@
 label house:
       scene house
       with fade
-      
-      play music "audio/scene3.mp3" fadeout 2.0
 
       rai "I bet if I hooked this up with my Raspberry Pi I could make it move. But what should it do?"
 
@@ -15,7 +13,7 @@ label house:
       mia "Oh. Well, since it's a single hand, maybe you can teach it to play solitaire."
 
       $kiss_flag = False
-      
+
 menu:
     "That's a great ideal! I'm glad I thought of it!":
         jump mia_dejected
@@ -28,13 +26,13 @@ label mia_surprised:
 
     $kiss_flag = True
     rai "Wait what? Uh, yeah, no, let's just forget this ever popped in my head."
-    
+
 menu:
     "That's a great ideal! I'm glad I thought of it!":
         jump mia_dejected
     "That's a great ideal! You're a genius, [mia]!":
         jump mia_happy
-  
+
 label mia_dejected:
     # show mia dejected
 

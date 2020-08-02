@@ -35,10 +35,10 @@ init python:
 # The game starts here.
 
 label start:
-    play music "audio/scene1.mp3" fadeout 2.0
+    play music "audio/rubypi.mp3"
     scene theend
     with fade
-    
+
     "[rai] Pi"
 
     jump introduction
@@ -47,10 +47,9 @@ label start:
 
 label end:
 #    scene thend
-    play music "audio/scene5.mp3" fadeout 2.0
     scene theend
     with fade
-    
+
     "The end."
 
     return
