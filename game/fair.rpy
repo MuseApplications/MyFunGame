@@ -1,60 +1,86 @@
 # Scene 6 Science Fair
 
 label fair:
-      scene black
-      show text "Science Fair" at truecenter
-      with fade
-      pause 1.5
-      with dissolve
-      hide text
-      with dissolve
+    scene black
+    show text "Science Fair" at truecenter
+    with fade
+    pause 1.5
+    with dissolve
+    hide text
+    with dissolve
 
-      scene fair
-      with fade
-      play music "audio/scene4.mp3" fadeout 2.0
+    scene fair
+    with fade
+    play music "audio/scene4.mp3" fadeout 2.0
 
 
-      yf "I bet no one ever thought of this!"
+    yf "I bet no one ever thought of this!"
 
-      yf "As soon as the pressure from the magma is high enough KABLOOEY!"
+    yf "As soon as the pressure from the magma is high enough KABLOOEY!"
 
-      "The volcano explodes and gets goop all over [yf] and the judges."
+    python:
+        lava = SpriteManager(update=lava_update)
+        lava_sprites = [ ]
+        lava_pos = None
+        blob = Image("lava.png")
+        for i in range(count):
+            lava_sprites.append(lava.create(blob))
+        for i in lava_sprites:
+            i.x = x_start + 10*renpy.random.random() - 5
+            i.y = y_start + 10*renpy.random.random() - 5
+    
+        del blob
+        del i
 
-      "..."
+    show expression lava as lava
+
+    pause 2.0
+
+    hide lava
+
+    python:
+        del lava
+        del lava_sprites
+        del lava_pos
+
+
+    "The volcano explodes and gets goop all over [yf] and the judges."
+
+    "..."
  
-      rai "Oh no, here are the judges. Okay [rai] time to show them what you're made of."
+    rai "Oh no, here are the judges. Okay [rai] time to show them what you're made of."
 
-      rai "I turn on the switch. The mechanical hand whirs into action and everyone stands back amazed as it flips over the cards and moves them around."
+    rai "I turn on the switch. The mechanical hand whirs into action and everyone stands back amazed as it flips over the cards and moves them around."
 
-      rai "Everyone is applauding! Wow, ok thank god. Still got a few bugs to work out..."
+    rai "Everyone is applauding! Wow, ok thank god. Still got a few bugs to work out..."
 
-      rai "Hot damn, I even got the blue ribbon!!"
+    rai "Hot damn, I even got the blue ribbon!!"
 
-      yf "Hey [rai], congrats on your win."
+    yf "Hey [rai], congrats on your win."
 
-      rai "Oh, thanks..."
+    rai "Oh, thanks..."
 
-      yf "You know, I think we got off on the wrong foot. I find your scrappy approach admirable."
+    yf "You know, I think we got off on the wrong foot. I find your scrappy approach admirable."
 
-      yf "I just couldn't admit it because I have a type-A, perfect--did I say perfect? I meant perfectionist--personality."
+    yf "I just couldn't admit it because I have a type-A, perfect--did I say perfect? I meant perfectionist--personality."
 
-      yf "Every man in my family for the last four generations has held valedictorian at this high school, and captain of the water polo team, AND decathalon president."
+    yf "Every man in my family for the last four generations has held valedictorian at this high school, and captain of the water polo team, AND decathalon president."
 
-      yf "It's quite a lot of pressure for a young, vigorous man like me, and..."
+    yf "It's quite a lot of pressure for a young, vigorous man like me, and..."
 
-      "Suddenly [yf]'s volcano erupts again! It looks like Ms. Gupta, our principal, got gooped. [yf] rushes over to apologize."
+    "Suddenly [yf]'s volcano erupts again! It looks like Ms. Gupta, our principal, got gooped. [yf] rushes over to apologize."
 
-      mia "I wasn't sure how to rescue you, so I put more baking soda in the volcano."
+    mia "I wasn't sure how to rescue you, so I put more baking soda in the volcano."
 
-      rai "A national hero."
+    rai "A national hero."
 
-      rk "I see you put my mechanical hand to good use."
+    rk "I see you put my mechanical hand to good use."
 
-      rai "Yes, ma'am."
+    rai "Yes, ma'am."
 
-      rk "And the glove? You did that as well?"
+    rk "And the glove? You did that as well?"
 
-      rai "As a matter of fact..."
+    rai "As a matter of fact..."
       
 label try_again:
 
