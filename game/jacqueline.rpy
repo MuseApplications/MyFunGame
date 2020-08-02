@@ -32,7 +32,7 @@ label jacqueline:
 
       rai "Next to the door is a gloved hand attached to the wall. I reached for it."
 
-      scene welcome
+      scene handshake
       with fade
 
       rai "It grabbed my hand!!! Oh, it's shaking it. That's...okay."
