@@ -35,8 +35,10 @@ label jacqueline:
 
       rai "It grabbed my hand!!!"
 
+      show welcomebubble at truecenter:
       rai "Oh, it's shaking it."
 
+      show gong at truecenter:
       rai "That's...okay."
 
 
