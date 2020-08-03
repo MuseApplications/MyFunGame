@@ -11,6 +11,7 @@ label fair:
 
     scene sfvolcano
     with fade
+    show johnspritefull at truecenter:
 
 
     yf "I bet no one ever thought of this!"
