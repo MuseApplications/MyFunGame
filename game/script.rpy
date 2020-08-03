@@ -36,7 +36,7 @@ init python:
 
 label start:
     play music "audio/rubypi.mp3"
-    scene theend
+    scene beginning
     with fade
 
     "[rai] Pi"
@@ -47,7 +47,7 @@ label start:
 
 label end:
 #    scene thend
-    scene theend
+    scene end
     with fade
 
     "The end."
