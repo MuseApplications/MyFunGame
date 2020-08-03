@@ -33,7 +33,11 @@ label jacqueline:
       scene handshake
       # with fade
 
-      rai "It grabbed my hand!!! Oh, it's shaking it. That's...okay."
+      rai "It grabbed my hand!!!"
+
+      rai "Oh, it's shaking it."
+
+      rai "That's...okay."
 
 
       scene jdoor
