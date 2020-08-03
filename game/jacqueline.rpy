@@ -11,6 +11,7 @@ label jacqueline:
 
       scene mailbox
       with fade
+      show rubyspritefull at truecenter:
 
       rai "I better check the mail before mom starts nagging..."
 
@@ -18,6 +19,7 @@ label jacqueline:
 
       scene jhouseout
       # with fade
+      show rubyspritefull at truecenter:
 
       rai "I'm a little nervous going up to her door. When we were growing up, the neigborhood boys swore she was a witch."
 
@@ -44,6 +46,7 @@ label jacqueline:
 
       scene jdoor
       # with fade
+      show rubyspritefull at truecenter:
 
       rk "Curse that mailman, he's always giving my mail to everyone but me! Next time I'm going to sic my mechanical dog on him."
 
@@ -112,6 +115,7 @@ label all_done:
 
       scene jhouseint
       # with fade
+      show rubyspritefull at truecenter:
 
       show robotdog at truecenter:
 
