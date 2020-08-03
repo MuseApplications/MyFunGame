@@ -2,7 +2,7 @@
 
 label bedroom:
       scene deskback
-      with fade
+      with dissolve
 
       rai "This will never work! The mechanical hand can't move the cards around!"
 
@@ -11,6 +11,12 @@ label bedroom:
       rai "Sure, what can it hurt? Let's give it a shot"
 
       # picture of Rai, no text
+
+      scene black
+      with fade
+      
+      scene deskback
+      with fade
 
       mia "I made this as quick as I could! I think the sleeve is pretty!"
 

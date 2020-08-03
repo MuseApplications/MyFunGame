@@ -14,7 +14,7 @@
 
 define rai = Character("Ruby", color="#e0115f")
 define mia = Character("Mia", color="#b57edc")
-define yf = Character("John", color="#0000ff")
+define yf = Character("John", color="#6080ff")
 define rk = Character("Jacqueline", color="#00ad43")
 
 

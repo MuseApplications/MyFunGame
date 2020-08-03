@@ -2,12 +2,12 @@
 
 label bowling:
       scene bbcourt
-      with fade
+      with dissolve
 
       rai "This is my tormentor, [yf]. He's good at everything and likes to show off."
 
       scene bowling
-      with fade
+      # with fade
 
       rai "Like the time we went bowling and [yf] got almost all strikes."
 

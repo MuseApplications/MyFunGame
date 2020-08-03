@@ -18,6 +18,9 @@ label fair:
     yf "As soon as the pressure from the magma is high enough KABLOOEY!"
 
     python:
+
+        count = 600
+
         lava = SpriteManager(update=lava_update)
         lava_sprites = [ ]
         lava_pos = None
@@ -46,7 +49,7 @@ label fair:
     "The volcano explodes and gets goop all over [yf] and the judges."
 
     scene sfhand
-    with fade
+    # with fade
 
     "..."
 
@@ -71,12 +74,41 @@ label fair:
     yf "It's quite a lot of pressure for a young, vigorous man like me, and..."
 
     scene sfvolcano
-    with fade
+    # with fade
+
+    python:
+
+        count = 1200
+
+        lava = SpriteManager(update=lava_update)
+        lava_sprites = [ ]
+        lava_pos = None
+        blob = Image("lava.png")
+        for i in range(count):
+            lava_sprites.append(lava.create(blob))
+        for i in lava_sprites:
+            i.x = x_start + 10*renpy.random.random() - 5
+            i.y = y_start + 10*renpy.random.random() - 5
+
+        del blob
+        del i
+
+    show expression lava as lava
+
+    pause 2.0
+
+    hide lava
+
+    python:
+        del lava
+        del lava_sprites
+        del lava_pos
+
 
     "Suddenly [yf]'s volcano erupts again! It looks like Ms. Gupta, our principal, got gooped. [yf] rushes over to apologize."
 
     scene sfhand
-    with fade
+    # with fade
 
     mia "I wasn't sure how to rescue you, so I put more baking soda in the volcano."
 

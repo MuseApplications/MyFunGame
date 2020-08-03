@@ -17,7 +17,7 @@ init python:
     x_start = screen_width/2
     y_start = screen_height/2
 
-    count = 800
+    # count = 800
 
     def lava_update(st):
         dv = 0.01

@@ -13,28 +13,28 @@ label introduction:
       rai "Well..."
 
       scene deskback
-      with fade
+      # with fade
 
       rai "Well... not so normal. I like electronics and computers."
       scene crowd
-      with fade
+      # with fade
 
       rai "All my friends like to hang out with boys."
 
       rai "Actually, they're not really my friends."
 
       scene lockers
-      with fade
+      # with fade
 
       rai "This is my only real friend, [mia]."
 
       scene deskback
-      with fade
+      # with fade
 
       rai "Most of my electronic projects don't work."
 
       scene raspberrypi
-      with fade
+      # with fade
 
       rai "But my mom bought me a Raspberry Pi for my birthday. I'm gonna try and make something really cool with it. Not sure what, though."
 

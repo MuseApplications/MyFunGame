@@ -2,7 +2,7 @@
 
 label karaoke:
       scene stage
-      with fade
+      # with fade
 
       rai "This other time at the karaoke contest, I sang my heart out and got lots of applause."
 

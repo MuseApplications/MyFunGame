@@ -17,7 +17,7 @@ label jacqueline:
       rai "Oh, there's a letter for my neighbor [rk] in here."
 
       scene jhouseout
-      with fade
+      # with fade
 
       rai "I'm a little nervous going up to her door. When we were growing up, the neigborhood boys swore she was a witch."
 
@@ -26,29 +26,20 @@ label jacqueline:
       rai "But I don't believe in witches. That's just what you call old ladies who don't act normal. When I grow up, everyone will probably think I'm a witch."
 
       scene jhouseoutclose
-      with fade
+      # with fade
 
       rai "Next to the door is a gloved hand attached to the wall. I reached for it."
 
       scene handshake
-      with fade
+      # with fade
 
       rai "It grabbed my hand!!! Oh, it's shaking it. That's...okay."
 
 
       scene jdoor
-      with fade
+      # with fade
 
       rk "Curse that mailman, he's always giving my mail to everyone but me! Next time I'm going to sic my mechanical dog on him."
-
-
-
-#      rai "You,"
-#
-#      rai "You, you,"
-#
-#      rai "You, you, you have a mechanical dog?"
-#
 
 $menu_bitmap = 3
 
@@ -114,7 +105,7 @@ label all_done:
       rk "Erector! Erector come down and meet this young lady."
 
       scene jhouseint
-      with fade
+      # with fade
 
       rai "I'm [rai], by the way. And her name is Erector?"
 
