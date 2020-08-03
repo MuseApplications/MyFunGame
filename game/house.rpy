@@ -4,6 +4,7 @@ label house:
       scene deskback
       with fade
       show raspberrypisprite at truecenter
+      show mechanicalhandsprite at truecenter
 
       rai "I bet if I hooked this up with my Raspberry Pi I could make it move. But what should it do?"
 
