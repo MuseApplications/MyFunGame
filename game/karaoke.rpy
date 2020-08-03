@@ -3,6 +3,7 @@
 label karaoke:
       scene stage
       # with fade
+      show rubyspritesmall at truecenter:
 
       rai "This other time at the karaoke contest, I sang my heart out and got lots of applause."
 
