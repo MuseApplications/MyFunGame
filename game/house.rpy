@@ -3,6 +3,7 @@
 label house:
       scene deskback
       with fade
+      show rubyspritehalf at truecenter
       show raspberrypisprite at truecenter
       show mechanicalhandsprite at truecenter
 
