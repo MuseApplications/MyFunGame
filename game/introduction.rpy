@@ -25,11 +25,13 @@ label introduction:
 
       #scene lockers
       # with fade
+      show miaspritefull at truecenter:
 
       rai "This is my only real friend, [mia]."
 
       #scene deskexplode
       # with fade
+      show rubyspritefull at truecenter:
 
       rai "Most of my electronic projects don't work."
 
