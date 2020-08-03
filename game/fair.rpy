@@ -60,6 +60,8 @@ label fair:
 
     rai "Everyone is applauding! Wow, ok thank god. Still got a few bugs to work out..."
 
+    show bleuribbon at truecenter
+
     rai "Hot damn, I even got the blue ribbon!!"
 
     yf "Hey [rai], congrats on your win."
