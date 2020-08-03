@@ -3,6 +3,7 @@
 label bedroom:
       scene deskback
       with dissolve
+      show raspberrypisprite at truecenter
 
       rai "This will never work! The mechanical hand can't move the cards around!"
 
@@ -14,9 +15,10 @@ label bedroom:
 
       scene black
       with fade
-      
+
       scene deskback
       with fade
+      show raspberrypisprite at truecenter
 
       mia "I made this as quick as I could! I think the sleeve is pretty!"
 

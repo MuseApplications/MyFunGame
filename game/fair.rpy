@@ -50,6 +50,7 @@ label fair:
 
     scene sfhand
     # with fade
+    show raspberrypisprite at truecenter
 
     "..."
 
