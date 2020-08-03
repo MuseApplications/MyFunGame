@@ -1,7 +1,7 @@
 # Scene 2 Bowling
 
 label bowling:
-      scene bbcourt
+      scene lockers
       with dissolve
 
       rai "This is my tormentor, [yf]. He's good at everything and likes to show off."

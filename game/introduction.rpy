@@ -12,23 +12,23 @@ label introduction:
 
       rai "Well..."
 
-      scene deskfront
+      #scene deskfront
       # with fade
 
       rai "Well... not so normal. I like electronics and computers."
-      scene crowd
+      #scene crowd
       # with fade
 
       rai "All my friends like to hang out with boys."
 
       rai "Actually, they're not really my friends."
 
-      scene lockers
+      #scene lockers
       # with fade
 
       rai "This is my only real friend, [mia]."
 
-      scene deskexplode
+      #scene deskexplode
       # with fade
 
       rai "Most of my electronic projects don't work."
