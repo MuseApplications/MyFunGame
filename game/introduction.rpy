@@ -6,6 +6,8 @@ label introduction:
 
       show rubyspritefull:
           xalign 0.25 yalign 1.0
+      show rubyblank:
+          xalign 0.28 yalign 0.2 zoom 0.83
       with dissolve
 
       rai "Hi, I'm [rai]. I'm a normal teenager."
