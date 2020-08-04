@@ -6,7 +6,6 @@ style my_style is text:
     outlines [ (absolute(3), "#000000", absolute(0), absolute(0)) ]
 
 image sure = Text("Sure!", style="my_style")
-image welcome = Text("Welcome", style="my_style")
 
 init python:
     import math
@@ -14,8 +13,8 @@ init python:
     screen_width = 1280
     screen_height = 720
 
-    x_start = screen_width/2
-    y_start = screen_height/2
+    # x_start = screen_width/2
+    # y_start = screen_height/2
 
     # count = 800
 

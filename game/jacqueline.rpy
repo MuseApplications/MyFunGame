@@ -11,15 +11,18 @@ label jacqueline:
 
       scene mailbox
       with fade
-      show rubyspritefull at truecenter:
+
+      show rubyspritefull:
+          xalign 0.05 yalign 1.0
 
       rai "I better check the mail before mom starts nagging..."
 
       rai "Oh, there's a letter for my neighbor [rk] in here."
 
       scene jhouseout
-      # with fade
-      show rubyspritefull at truecenter:
+
+      show rubyspritefull:
+          xalign 0.1 yalign 1.0
 
       rai "I'm a little nervous going up to her door. When we were growing up, the neigborhood boys swore she was a witch."
 
@@ -28,25 +31,32 @@ label jacqueline:
       rai "But I don't believe in witches. That's just what you call old ladies who don't act normal. When I grow up, everyone will probably think I'm a witch."
 
       scene jhouseoutclose
-      # with fade
 
       rai "Next to the door is a gloved hand attached to the wall. I reached for it."
 
       scene handshake
-      # with fade
 
       rai "It grabbed my hand!!!"
 
-      show welcomebubble at truecenter:
       rai "Oh, it's shaking it."
 
-      show gong at truecenter:
+      show welcomebubble at truecenter:
+          xalign 0.8 yalign 0.2
+      pause 1.5
+      hide welcomebubble
+      with dissolve
+      show gong:
+          xalign 0.2 yalign 0.1
+      pause 1.5
+      hide gong
+      with dissolve
+
       rai "That's...okay."
 
-
       scene jdoor
-      # with fade
-      show rubyspritefull at truecenter:
+
+      show jackiespritefull:
+          xalign 0.4 yalign 1.0
 
       rk "Curse that mailman, he's always giving my mail to everyone but me! Next time I'm going to sic my mechanical dog on him."
 
@@ -114,10 +124,15 @@ label all_done:
       rk "Erector! Erector come down and meet this young lady."
 
       scene jhouseint
-      # with fade
-      show rubyspritefull at truecenter:
+
+      show rubyspritefull:
+          xalign 0.15 yalign 1.0
 
       show robotdog at truecenter:
+          xalign 0.5 yalign 0.6
+
+      show jackiespritefull:
+          xalign 0.8 yalign 1.0 zoom 1.2
 
       rai "I'm [rai], by the way. And her name is Erector?"
 

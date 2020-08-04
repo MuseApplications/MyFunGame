@@ -1,20 +1,34 @@
 # Scene 2.5 Jacqueline's house
 
 label karaoke:
+
       scene stage
-      # with fade
-      show rubyspritesmall at truecenter:
+      
+      show rubyspritefull:
+          xalign 0.6 yalign 1.0
 
       rai "This other time at the karaoke contest, I sang my heart out and got lots of applause."
 
-      show johnspritesmall at truecenter:
+      hide rubyspritefull
+      
+      show johnspritefull:
+          xalign 0.4 yalign 1.0
+
       rai "But then [yf] brought down the house."
 
-      show rubyspritesmall at truecenter:
+      hide johnspritefull
+      
+      show rubyspritefull:
+          xalign 0.6 yalign 1.0
+
       rai "I really thought I could outdo him, so I sang again. But I picked a song that was too high for my alto range."
 
-      show clapbubble at truecenter:
+      show clapbubble:
+          xalign 0.3 yalign 0.2
+      
       rai "Only [mia] clapped, and even she stopped when she noticed no one else was clapping."
+
+      hide clapbubble
 
       rai "So that's my life as a failure."
 

@@ -11,14 +11,18 @@ label fair:
 
     scene sfvolcano
     with fade
-    show johnspritefull at truecenter:
-
+    
+    show johnspritefull:
+        xalign 0.9 yalign 1.0
 
     yf "I bet no one ever thought of this!"
 
     yf "As soon as the pressure from the magma is high enough KABLOOEY!"
 
     python:
+
+        x_start = 9.0*screen_width/20.0
+        y_start = 4.0*screen_height/10.0
 
         count = 600
 
@@ -51,10 +55,15 @@ label fair:
 
     scene sfhand
     # with fade
-    show raspberrypisprite at truecenter
-    show rubyspritefull at truecenter:
+    show raspberrypisprite:
+        xalign 0.40 yalign 0.45
 
-    "..."
+
+    show rubyspritefull:
+        xalign 0.8 yalign 1.0
+
+
+    ""
 
     rai "Oh no, here are the judges. Okay [rai] time to show them what you're made of."
 
@@ -62,7 +71,8 @@ label fair:
 
     rai "Everyone is applauding! Wow, ok thank god. Still got a few bugs to work out..."
 
-    show bleuribbon at truecenter
+    show bleuribbon:
+        xalign 0.65 yalign 0.2
 
     rai "Hot damn, I even got the blue ribbon!!"
 
@@ -78,10 +88,10 @@ label fair:
 
     yf "It's quite a lot of pressure for a young, vigorous man like me, and..."
 
-    # scene sfvolcano
-    # with fade
-
     python:
+
+        x_start = 11.0*screen_width/10.0
+        y_start = 4.0*screen_height/10.0
 
         count = 1200
 
