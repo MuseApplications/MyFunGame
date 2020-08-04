@@ -17,15 +17,15 @@ label introduction:
       rai "All my friends like to hang out with boys."
 
       rai "Actually, they're not really my friends."
-      
+
       show miaspritefull:
-          xalign 0.75 yalign 1.0 zoom 1.3
+          xalign 0.75 yalign 1.0 zoom 1.1
 
       rai "This is my only real friend, [mia]."
 
       hide miaspritefull
       with dissolve
-      
+
       rai "Most of my electronic projects don't work."
 
       scene raspberrypi

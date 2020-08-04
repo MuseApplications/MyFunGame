@@ -3,15 +3,18 @@
 label house:
       scene deskback
       with fade
-      
+
       show rubyspritehalf:
           xalign 0.5 yalign 0.08
 
+      show miaspritehalf:
+          xalign 0.825 yalign 0.135
+
       show raspberrypisprite:
-          xalign 0.5 yalign 0.6
+          xalign 0.66 yalign 0.5
 
       show mechanicalhandsprite:
-          xalign 0.75 yalign 0.5
+          xalign 0.5 yalign 0.5
 
       rai "I bet if I hooked this up with my Raspberry Pi I could make it move. But what should it do?"
 

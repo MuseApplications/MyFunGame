@@ -6,15 +6,21 @@ label bedroom:
 
       scene deskback
       with fade
-      
+
       show rubyspritehalf:
           xalign 0.5 yalign 0.08
 
-      show raspberrypisprite at truecenter:
-          xalign 0.5 yalign 0.6
+      show miaspritehalf:
+          xalign 0.825 yalign 0.135
+
+      show raspberrypisprite:
+          xalign 0.66 yalign 0.5
+
+      show solitaire:
+          xalign 0.35 yalign 0.55
 
       show mechanicalhandsprite:
-          xalign 0.75 yalign 0.5
+          xalign 0.5 yalign 0.5
 
       rai "This will never work! The mechanical hand can't move the cards around!"
 
@@ -33,11 +39,17 @@ label bedroom:
       show rubyspritehalf:
           xalign 0.5 yalign 0.08
 
-      show raspberrypisprite at truecenter:
-          xalign 0.5 yalign 0.6
+      show miaspritehalf:
+          xalign 0.825 yalign 0.135
 
-      show mechanicalhandsprite:
-          xalign 0.75 yalign 0.5
+      show raspberrypisprite:
+          xalign 0.66 yalign 0.5
+
+      show solitaire:
+          xalign 0.35 yalign 0.55
+
+      show mechanicalglovesprite:
+          xalign 0.5 yalign 0.5
 
       mia "I made this as quick as I could! I think the sleeve is pretty!"
 

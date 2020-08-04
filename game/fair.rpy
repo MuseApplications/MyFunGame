@@ -11,9 +11,9 @@ label fair:
 
     scene sfvolcano
     with fade
-    
+
     show johnspritefull:
-        xalign 0.9 yalign 1.0
+        xalign 0.7 yalign 1.0
 
     yf "I bet no one ever thought of this!"
 
@@ -56,8 +56,13 @@ label fair:
     scene sfhand
     # with fade
     show raspberrypisprite:
-        xalign 0.40 yalign 0.45
+        xalign 0.60 yalign 0.45
 
+    show solitaire:
+        xalign 0.25 yalign 0.5
+
+    show mechanicalglovesprite:
+        xalign 0.40 yalign 0.45
 
     show rubyspritefull:
         xalign 0.8 yalign 1.0
@@ -75,6 +80,9 @@ label fair:
         xalign 0.65 yalign 0.2
 
     rai "Hot damn, I even got the blue ribbon!!"
+
+    show johnspritefull:
+        xalign 0.5 yalign 1.0
 
     yf "Hey [rai], congrats on your win."
 
@@ -125,9 +133,17 @@ label fair:
     # scene sfhand
     # with fade
 
+    hide johnspritefull
+
+    show miaspritefull:
+        xalign 0.25 yalign 1.0 zoom 1.2
+
     mia "I wasn't sure how to rescue you, so I put more baking soda in the volcano."
 
     rai "A national hero."
+
+    show jackiespritefull:
+        xalign 0.5 yalign 1.0 zoom 1.2
 
     rk "I see you put my mechanical hand to good use."
 

@@ -13,7 +13,7 @@ label jacqueline:
       with fade
 
       show rubyspritefull:
-          xalign 0.05 yalign 1.0
+          xalign 0.05 yalign -0.125 zoom 2
 
       rai "I better check the mail before mom starts nagging..."
 
@@ -40,7 +40,7 @@ label jacqueline:
 
       rai "Oh, it's shaking it."
 
-      show welcomebubble at truecenter:
+      show welcomebubble:
           xalign 0.8 yalign 0.2
       pause 1.5
       hide welcomebubble
@@ -56,7 +56,7 @@ label jacqueline:
       scene jdoor
 
       show jackiespritefull:
-          xalign 0.4 yalign 1.0
+          xalign 0.4 yalign 1.0 zoom 1.25
 
       rk "Curse that mailman, he's always giving my mail to everyone but me! Next time I'm going to sic my mechanical dog on him."
 
