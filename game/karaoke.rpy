@@ -13,6 +13,7 @@ label karaoke:
       show rubyspritesmall at truecenter:
       rai "I really thought I could outdo him, so I sang again. But I picked a song that was too high for my alto range."
 
+      show clapbubble at truecenter:
       rai "Only [mia] clapped, and even she stopped when she noticed no one else was clapping."
 
       rai "So that's my life as a failure."
