@@ -144,7 +144,10 @@ label all_done:
 
       rk "Yes, my specialty is mechanical hands, would you like one? It doesn't actually do anything."
 
-      show sure at truecenter
+
+      show surebubble:
+          xalign 0.4 yalign 0.15
+
       with dissolve
       pause 1.5
       hide text
