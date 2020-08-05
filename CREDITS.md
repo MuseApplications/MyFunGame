@@ -1,11 +1,13 @@
+A Kamradt Family Production
+
 Writers
 Mary
-rkamradtsr
+Randy
 rai
 
 Technical team
-rkamradtsr
-Yugyfoog
+Randy
+yugyfoog
 
 Character designer
 rai
@@ -14,14 +16,14 @@ Colorist
 Mary
 
 Background art
-Rkamradtsr
+Randy
 Mary
 
 Animation
-Yugyfoog
+yugyfoog
 
 Music
-(insert tracks and artist names here)
+Ruby Bells composed and produced by Randy
 
 Sound
 (insert artists/sources here)
