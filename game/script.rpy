@@ -24,11 +24,6 @@ init python:
     screen_width = 1280
     screen_height = 720
 
-    # x_start = screen_width/2
-    # y_start = screen_height/2
-
-    # count = 800
-
     def lava_update(st):
         dv = 0.01
         for i in lava_sprites:
@@ -40,6 +35,12 @@ init python:
             i.y += dv*distance * vy
             dv += 1.0/count
         return .01
+
+    def snow_update(st):
+        for i in snow_sprites:
+            i.y += 4.0 + renpy.random.random()
+            i.x += 3*renpy.random.random() - 1.5
+        return 0.0
 
 
 # The game starts here.

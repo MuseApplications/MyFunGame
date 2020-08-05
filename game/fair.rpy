@@ -28,7 +28,6 @@ label fair:
 
         lava = SpriteManager(update=lava_update)
         lava_sprites = [ ]
-        lava_pos = None
         blob = Image("lava.png")
         for i in range(count):
             lava_sprites.append(lava.create(blob))
@@ -48,7 +47,6 @@ label fair:
     python:
         del lava
         del lava_sprites
-        del lava_pos
 
 
     "The volcano explodes and gets goop all over [yf] and the judges."
@@ -138,9 +136,6 @@ label fair:
 
     "Suddenly [yf]'s volcano erupts again! It looks like Ms. Gupta, our principal, got gooped. [yf] rushes over to apologize."
 
-    # scene sfhand
-    # with fade
-
     hide johnspritefull
 
     show miaspritefull:
@@ -191,7 +186,30 @@ label kiss_again:
 
 label i_did_it:
 
+    python:
+        snow = SpriteManager(update=snow_update)
+        snow_sprites = [ ]
+        NaHCO3 = Image("NaHCO3.png")
+        for i in range(1000):
+            snow_sprites.append(snow.create(NaHCO3))
+        for i in snow_sprites:
+            r = renpy.random.random()**(2.0/3.0)
+            theta = 2*math.pi*renpy.random.random()
+            i.x = 200*r*math.cos(theta) + 950
+            i.y = 500*r*math.sin(theta) - 500
+    
+        del NaHCO3
+        del i
+
+    show expression snow as snow
+
     rai "Something powdery falls onto my head. A lot of it, actually. Is it snowing?! Oh, nope, [mia] just dumped the remainder of the box of baking soda onto my head."
+
+    hide snow
+
+    python:
+        del snow
+        del snow_sprites
 
     jump mia_did_it
 
