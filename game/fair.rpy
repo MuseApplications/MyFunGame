@@ -54,7 +54,7 @@ label fair:
     "The volcano explodes and gets goop all over [yf] and the judges."
 
     scene sfhand
-    # with fade
+
     show raspberrypisprite:
         xalign 0.60 yalign 0.45
 
@@ -62,7 +62,7 @@ label fair:
         xalign 0.25 yalign 0.5
 
     show mechanicalglovesprite:
-        xalign 0.40 yalign 0.45
+        xalign glove_x yalign glove_y
 
     show rubyspritefull:
         xalign 0.8 yalign 1.0
@@ -72,9 +72,17 @@ label fair:
 
     rai "Oh no, here are the judges. Okay [rai] time to show them what you're made of."
 
+    show mechanicalglovesprite:
+        xalign glove_x yalign glove_y
+        function play
+        repeat
+
     rai "I turn on the switch. The mechanical hand whirs into action and everyone stands back amazed as it flips over the cards and moves them around."
 
     rai "Everyone is applauding! Wow, ok thank god. Still got a few bugs to work out..."
+
+    show mechanicalglovesprite:
+        xalign glove_x yalign glove_y
 
     show bleuribbon:
         xalign 0.65 yalign 0.2
