@@ -213,6 +213,6 @@ init python:
 ## The username and project name associated with an itch.io project, separated
 ## by a slash.
 
-define build.itch_project = "renpytom/test-project"
+define build.itch_project = "raihka/RubyPi"
 
-define gui.interface_text_font = "fonts/Aller/Aller_Rg.ttf"
+define gui.interface_text_font = "fonts/Sora/static/Sora-Regular.ttf"
