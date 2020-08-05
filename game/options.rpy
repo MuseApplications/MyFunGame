@@ -23,23 +23,21 @@ define gui.show_name = True
 
 ## The version of the game.
 
-define config.version = "0.0.1"
+define config.version = "1.0.0-preprelease"
 
 
 ## Text that is placed on the game's about screen. Place the text between the
 ## triple-quotes, and leave a blank line between paragraphs.
 
 define gui.about = _("""
-
-Project management: Rachel
-Programming: Dad (lead), Rachel
-Layout: Rachel
-Transitions: Dad
-Writing: Mary (lead), Rachel (editor)
-Background art: Dad and Mary
-Character art: Rachel (lead), (Dad and Mary)
-Music + sound effects: Rachel (lead), music/sound suggestions welcome
-Fetching coffee: Yugyfoog
+A Kamradt Family Production
+Writers: Mary Randy rai
+Technical team: Randy yugyfoog
+Character designer: rai
+Colorist: Mary
+Background art: Randy Mary
+Animation: yugyfoog
+Music: 'Ruby Bells' composed and produced by Randy
 """)
 
 
@@ -47,7 +45,7 @@ Fetching coffee: Yugyfoog
 ## distribution. This must be ASCII-only, and must not contain spaces, colons,
 ## or semicolons.
 
-define build.name = "MyFunGame"
+define build.name = "RubyPi"
 
 
 ## Sounds and music ############################################################
@@ -71,7 +69,7 @@ define config.has_voice = True
 ## the player is at the main menu. This file will continue playing into the
 ## game, until it is stopped or another file is played.
 
-# define config.main_menu_music = "main-menu-theme.ogg"
+define config.main_menu_music = "audio/rubypi.mp3"
 
 
 ## Transitions #################################################################
@@ -129,7 +127,7 @@ define config.window_hide_transition = Dissolve(.2)
 ## Controls the default text speed. The default, 0, is infinite, while any other
 ## number is the number of characters per second to type out.
 
-default preferences.text_cps = 30
+default preferences.text_cps = 60
 
 
 ## The default auto-forward delay. Larger numbers lead to longer waits, with 0
