@@ -31,11 +31,11 @@ define config.version = "1.0.0-prerelease"
 
 define gui.about = _("""
 A Kamradt Family Production
-Writers: Mary Randy rai
-Technical team: Randy yugyfoog
+Writers: Mary, Randy, rai
+Technical team: Randy, yugyfoog
 Character designer: rai
 Colorist: Mary
-Background art: Randy Mary
+Background art: Randy, Mary
 Animation: yugyfoog
 Music: 'Ruby Bells' composed and produced by Randy
 """)
