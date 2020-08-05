@@ -18,9 +18,11 @@ label bowling:
 
       hide johnspritefull
       with dissolve
-      
+
       show rubyspritefull:
           xalign 0.75 yalign 1.0
+      show rubyfaceblank:
+          xalign 0.725 yalign 0.2 zoom 0.83
 
       rai "I mostly fell on my butt. I don't know why I tried bowling, I'm pretty terrible at sports."
 

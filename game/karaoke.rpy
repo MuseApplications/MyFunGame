@@ -6,10 +6,13 @@ label karaoke:
 
       show rubyspritefull:
           xalign 0.6 yalign 1.0
+      show rubyfaceblank:
+          xalign 0.59 yalign 0.2 zoom 0.83
 
       rai "This other time at the karaoke contest, I sang my heart out and got lots of applause."
 
       hide rubyspritefull
+      hide rubyfaceblank
 
       show johnspritefull:
           xalign 0.4 yalign 1.0
@@ -19,7 +22,9 @@ label karaoke:
       hide johnspritefull
 
       show rubyspritefull:
-          xalign 0.6 yalign 1.5
+          xalign 0.6 yalign 1.0
+      show rubyfaceblank:
+          xalign 0.59 yalign 0.2 zoom 0.83
 
       rai "I really thought I could outdo him, so I sang again"
 

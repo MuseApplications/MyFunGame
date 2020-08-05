@@ -14,6 +14,8 @@ label jacqueline:
 
       show rubyspritefull:
           xalign 0.05 yalign -0.125 zoom 2
+      show rubyfaceblank:
+          xalign 0.159 yalign 0.275 zoom 1.63
 
       rai "I better check the mail before mom starts nagging..."
 
