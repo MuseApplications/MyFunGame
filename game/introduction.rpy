@@ -6,7 +6,7 @@ label introduction:
 
       show rubyspritefull:
           xalign 0.25 yalign 1.0
-      show rubyblank:
+      show rubyfaceblank:
           xalign 0.28 yalign 0.2 zoom 0.83
       with dissolve
 
@@ -22,10 +22,13 @@ label introduction:
 
       show miaspritefull:
           xalign 0.75 yalign 1.0 zoom 1.1
+      show miafacehappy:
+          xalign 0.726 yalign 0.378 zoom 0.55
 
       rai "This is my only real friend, [mia]."
 
       hide miaspritefull
+      hide miafacehappy
       with dissolve
 
       rai "Most of my electronic projects don't work."
