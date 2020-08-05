@@ -10,6 +10,17 @@ image sure = Text("Sure!", style="my_style")
 init python:
     import math
 
+    glove_x = 0.45
+    glove_y = 0.40
+
+    def play(trans, st, at):
+        if st > 0.5:
+            trans.xalign = glove_x
+            return None
+        else:
+            trans.xalign = glove_x + 0.2*(abs(st - 0.25) - 0.25)
+            return 0
+
     screen_width = 1280
     screen_height = 720
 
