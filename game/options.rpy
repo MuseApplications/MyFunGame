@@ -69,7 +69,7 @@ define config.has_voice = True
 ## the player is at the main menu. This file will continue playing into the
 ## game, until it is stopped or another file is played.
 
-# define config.main_menu_music = "main-menu-theme.ogg"
+define config.main_menu_music = "audio/rubypi.mp3"
 
 
 ## Transitions #################################################################
@@ -213,4 +213,6 @@ init python:
 ## The username and project name associated with an itch.io project, separated
 ## by a slash.
 
-# define build.itch_project = "renpytom/test-project"
+define build.itch_project = "renpytom/test-project"
+
+define gui.interface_text_font = "fonts/Aller/Aller_Rg.ttf"

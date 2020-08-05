@@ -45,7 +45,6 @@ init python:
 # The game starts here.
 
 label start:
-    play music "audio/rubypi.mp3"
     scene beginning
     with fade
 
