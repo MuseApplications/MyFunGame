@@ -23,7 +23,7 @@ define gui.show_name = True
 
 ## The version of the game.
 
-define config.version = "1.0.0-prerelease"
+define config.version = "1.0.0-beta"
 
 
 ## Text that is placed on the game's about screen. Place the text between the
@@ -38,7 +38,8 @@ Colorist: Mary
 Background art: Randy, Mary
 Animation: yugyfoog
 Music: 'Ruby Bells' composed and produced by Randy
-Sound https://www.freesfx.co.uk
+Sound: https://www.freesfx.co.uk
+Photo credits: Joanna Szumska on Unsplash for the tropical beach photo
 """)
 
 

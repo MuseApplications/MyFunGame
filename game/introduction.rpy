@@ -5,10 +5,8 @@ label introduction:
       with fade
       play sound "audio/schoolbell.mp3"
 
-      show rubyspritefull:
+      show rubyspritefullneutral:
           xalign 0.25 yalign 1.0
-      show rubyfaceblank:
-          xalign 0.28 yalign 0.2 zoom 0.83
       with dissolve
 
       rai "Hi, I'm [rai]. I'm a normal teenager."
@@ -21,17 +19,17 @@ label introduction:
 
       rai "Actually, they're not really my friends."
 
-      show miaspritefull:
+      show miaspritefullhappy:
           xalign 0.75 yalign 1.0 zoom 1.1
-      show miafacehappy:
-          xalign 0.726 yalign 0.378 zoom 0.55
 
       rai "This is my only real friend, [mia]."
 
-      hide miaspritefull
-      hide miafacehappy
+      hide miaspritefullhappy
       with dissolve
 
+      hide rubyspritefullneutral
+      show rubyspritefullannoyed:
+          xalign 0.25 yalign 1.0
       rai "Most of my electronic projects don't work."
 
       scene raspberrypi

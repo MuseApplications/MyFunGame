@@ -14,10 +14,8 @@ label jacqueline:
       scene mailbox
       with fade
 
-      show rubyspritefull:
+      show rubyspritefullneutral:
           xalign 0.05 yalign -0.125 zoom 2
-      show rubyfaceblank:
-          xalign 0.159 yalign 0.275 zoom 1.63
 
       rai "I better check the mail before mom starts nagging..."
 
@@ -25,7 +23,7 @@ label jacqueline:
 
       scene jhouseout
       play music "audio/creepywind.mp3" fadeout 1.0 fadein 1.0
-      show rubyspritefull:
+      show rubyspritefullneutral:
           xalign 0.1 yalign 1.0
 
       rai "I'm a little nervous going up to her door. When we were growing up, the neigborhood boys swore she was a witch."
@@ -60,7 +58,7 @@ label jacqueline:
 
       scene jdoor
 
-      show jackiespritefull:
+      show jackiespritefullangry:
           xalign 0.4 yalign 1.0 zoom 1.25
 
       rk "Curse that mailman, he's always giving my mail to everyone but me! Next time I'm going to sic my mechanical dog on him."
@@ -121,6 +119,10 @@ label choice1_C:
 
 label all_done:
 
+      hide jackiespritefullangry
+      show jackiespritefullchill:
+          xalign 0.4 yalign 1.0 zoom 1.25
+
       rai "You have a mechanical dog?"
 
       rk "Doesn't everyone? Would you like to meet her?"
@@ -130,13 +132,13 @@ label all_done:
       scene jhouseint
       play music "audio/rubypi.mp3" fadeout 1.0 fadein 1.0
 
-      show rubyspritefull:
+      show rubyspritefullhappy:
           xalign 0.15 yalign 1.0
 
       show robotdog at truecenter:
           xalign 0.5 yalign 0.6
 
-      show jackiespritefull:
+      show jackiespritefullchill:
           xalign 0.8 yalign 1.0 zoom 1.2
 
       rai "I'm [rai], by the way. And her name is Erector?"

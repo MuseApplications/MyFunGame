@@ -12,12 +12,16 @@ label fair:
     scene sfvolcano
     with fade
 
-    show johnspritefull:
+    show johnspritefullsmug:
         xalign 0.7 yalign 1.0
 
     yf "I bet no one ever thought of this!"
 
     yf "As soon as the pressure from the magma is high enough KABLOOEY!"
+
+    hide johnspritefullsmug
+    show johnspritefullhorror:
+        xalign 0.7 yalign 1.0
 
     python:
 
@@ -62,7 +66,7 @@ label fair:
     show mechanicalglovesprite:
         xalign glove_x yalign glove_y
 
-    show rubyspritefull:
+    show rubyspritefullannoyed:
         xalign 0.8 yalign 1.0
 
 
@@ -78,6 +82,10 @@ label fair:
 
     rai "I turn on the switch. The mechanical hand whirs into action and everyone stands back amazed as it flips over the cards and moves them around."
 
+    hide rubyspritefullannoyed
+    show rubyspritefullhappy:
+        xalign 0.8 yalign 1.0
+
     rai "Everyone is applauding! Wow, ok thank god. Still got a few bugs to work out..."
 
     show mechanicalglovesprite:
@@ -89,8 +97,11 @@ label fair:
 
     rai "Hot damn, I even got the blue ribbon!!"
 
-    show johnspritefull:
+    show johnspritefullsmug:
         xalign 0.5 yalign 1.0
+    hide rubyspritefullhappy
+    show rubyspritefullannoyed:
+        xalign 0.8 yalign 1.0
 
     yf "Hey [rai], congrats on your win."
 
@@ -104,6 +115,9 @@ label fair:
 
     yf "It's quite a lot of pressure for a young, vigorous man like me, and..."
 
+    hide johnspritefullsmug
+    show johnspritefullhorror:
+        xalign 0.5 yalign 1.0
     python:
 
         x_start = 11.0*screen_width/10.0
@@ -138,18 +152,21 @@ label fair:
 
     "Suddenly [yf]'s volcano erupts again!"
 
-    hide johnspritefull
+    hide johnspritefullhorror
 
     "It looks like Ms. Gupta, our principal, got gooped. [yf] rushes over to apologize."
 
-    show miaspritefull:
+    show miaspritefullhappy:
         xalign 0.25 yalign 1.0 zoom 1.2
+    hide rubyspritefullannoyed
+    show rubyspritefullhappy:
+        xalign 0.8 yalign 1.0
 
     mia "I wasn't sure how to rescue you, so I put more baking soda in the volcano."
 
     rai "A national hero."
 
-    show jackiespritefull:
+    show jackiespritefullhappy:
         xalign 0.5 yalign 1.0 zoom 1.2
 
     rk "I see you put my mechanical hand to good use."
@@ -191,7 +208,7 @@ label kiss_again:
 label i_did_it:
 
     rai "I did it!"
-    
+
     python:
         snow = SpriteManager(update=snow_update)
         snow_sprites = [ ]
