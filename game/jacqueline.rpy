@@ -5,7 +5,9 @@ label jacqueline:
 
       show text "After school" at truecenter
       with fade
-      pause 1.5
+
+      pause
+
       hide text
       with dissolve
 

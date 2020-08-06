@@ -4,7 +4,7 @@ label fair:
     scene black
     show text "Science Fair" at truecenter
     with fade
-    pause 1.5
+    pause
     with dissolve
     hide text
     with dissolve
