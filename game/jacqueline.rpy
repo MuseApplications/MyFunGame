@@ -22,7 +22,7 @@ label jacqueline:
       rai "Oh, there's a letter for my neighbor [rk] in here."
 
       scene jhouseout
-
+      play music "audio/creepywind.mp3" fadeout 1.0 fadein 1.0
       show rubyspritefull:
           xalign 0.1 yalign 1.0
 
@@ -57,6 +57,7 @@ label jacqueline:
       rai "That's...okay."
 
       scene jdoor
+      play music "audio/rubypi.mp3" fadeout 1.0 fadein 1.0
 
       show jackiespritefull:
           xalign 0.4 yalign 1.0 zoom 1.25

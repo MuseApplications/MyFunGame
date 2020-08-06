@@ -3,6 +3,7 @@
 label introduction:
       scene lockers
       with fade
+      play sound "audio/schoolbell.mp3"
 
       show rubyspritefull:
           xalign 0.25 yalign 1.0

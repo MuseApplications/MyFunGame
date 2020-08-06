@@ -36,6 +36,7 @@ label bedroom:
       scene deskback
       with fade
 
+      play sound "audio/scary.mp3"
       show rubyspritehalf:
           xalign 0.5 yalign 0.08
 
