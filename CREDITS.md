@@ -6,8 +6,8 @@ Randy
 rai
 
 Technical team
-Randy
 yugyfoog
+Randy
 
 Character designer
 rai
