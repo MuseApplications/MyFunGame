@@ -214,6 +214,3 @@ init python:
 ## by a slash.
 
 define build.itch_project = "raihka/RubyPi"
-
-define gui.text_font = "fonts/Sora/Sora-VariableFont_wght.ttf"
-define gui.interface_text_font = "fonts/Sora/Sora-VariableFont_wght.ttf"
