@@ -74,6 +74,7 @@ label fair:
         xalign glove_x yalign glove_y
         function play
         repeat
+    play sound "audio/mechanicalhand.mp3"
 
     rai "I turn on the switch. The mechanical hand whirs into action and everyone stands back amazed as it flips over the cards and moves them around."
 
@@ -82,6 +83,7 @@ label fair:
     show mechanicalglovesprite:
         xalign glove_x yalign glove_y
 
+    play sound "audio/blueribbon.mp3"
     show bleuribbon:
         xalign 0.65 yalign 0.2
 
@@ -197,7 +199,7 @@ label i_did_it:
             theta = 2*math.pi*renpy.random.random()
             i.x = 200*r*math.cos(theta) + 950
             i.y = 500*r*math.sin(theta) - 500
-    
+
         del NaHCO3
         del i
 

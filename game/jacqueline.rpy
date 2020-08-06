@@ -47,6 +47,7 @@ label jacqueline:
       pause 1.5
       hide welcomebubble
       with dissolve
+      play sound "audio/gong.mp3"
       show gong:
           xalign 0.2 yalign 0.1
       pause 1.5
