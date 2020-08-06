@@ -215,4 +215,5 @@ init python:
 
 define build.itch_project = "raihka/RubyPi"
 
-define gui.interface_text_font = "fonts/Sora/static/Sora-Regular.ttf"
+define gui.text_font = "fonts/Sora/Sora-VariableFont_wght.ttf"
+define gui.interface_text_font = "fonts/Sora/Sora-VariableFont_wght.ttf"
