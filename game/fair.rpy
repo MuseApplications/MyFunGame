@@ -136,9 +136,11 @@ label fair:
         del lava_pos
 
 
-    "Suddenly [yf]'s volcano erupts again! It looks like Ms. Gupta, our principal, got gooped. [yf] rushes over to apologize."
+    "Suddenly [yf]'s volcano erupts again!"
 
     hide johnspritefull
+
+    "It looks like Ms. Gupta, our principal, got gooped. [yf] rushes over to apologize."
 
     show miaspritefull:
         xalign 0.25 yalign 1.0 zoom 1.2

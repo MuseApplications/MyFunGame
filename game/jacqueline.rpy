@@ -57,7 +57,6 @@ label jacqueline:
       rai "That's...okay."
 
       scene jdoor
-      play music "audio/rubypi.mp3" fadeout 1.0 fadein 1.0
 
       show jackiespritefull:
           xalign 0.4 yalign 1.0 zoom 1.25
@@ -128,6 +127,7 @@ label all_done:
       rk "Erector! Erector come down and meet this young lady."
 
       scene jhouseint
+      play music "audio/rubypi.mp3" fadeout 1.0 fadein 1.0
 
       show rubyspritefull:
           xalign 0.15 yalign 1.0
