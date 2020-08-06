@@ -186,10 +186,12 @@ label kiss_again:
 
     rai "[mia] finally speaks up, which is good, because I choked on my own spit and had started couging by this point."
 
-    jump mia_did_it
+    jump mia_did_it_2
 
 label i_did_it:
 
+    rai "I did it!"
+    
     python:
         snow = SpriteManager(update=snow_update)
         snow_sprites = [ ]
@@ -215,9 +217,13 @@ label i_did_it:
         del snow
         del snow_sprites
 
-    jump mia_did_it
+    jump mia_did_it_2
 
 label mia_did_it:
+
+      rai "[mia] did it!"
+
+label mia_did_it_2:
 
       mia "It - it was me, ma'am"
 
