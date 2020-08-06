@@ -68,7 +68,9 @@ $menu_bitmap = 3
 label do_menu:
 
 if menu_bitmap == 0:
-     jump choice1_A
+    menu:
+        "You have a mechanical dog?":
+            jump all_done
 
 if menu_bitmap == 1:
     menu:
@@ -95,11 +97,6 @@ if menu_bitmap == 3:
          "...Wut.":
               jump choice1_C
 
-label choice1_A:
-    rai "You have a mechanical dog?"
-
-    jump all_done
-
 label choice1_B:
 
     $menu_bitmap -= 1
@@ -121,6 +118,8 @@ label choice1_C:
       jump do_menu
 
 label all_done:
+
+      rai "You have a mechanical dog?"
 
       rk "Doesn't everyone? Would you like to meet her?"
 
