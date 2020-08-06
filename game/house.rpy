@@ -37,6 +37,7 @@ menu:
 label mia_surprised:
 
     $kiss_flag = True
+
     rai "Wait what? Uh, yeah, no, let's just forget this ever popped in my head."
 
 menu:
@@ -46,12 +47,22 @@ menu:
         jump mia_happy
 
 label mia_dejected:
+
+    rai "That's a great ideal! I'm glad I thought of it!"
+
     # show mia dejected
+
+    mia "..."
 
     jump continue
 
 label mia_happy:
+
+    rai "That's a great ideal! You're a genius, [mia]!"
+
     # show mia happy
+
+    mia "..."
 
     jump continue
 
