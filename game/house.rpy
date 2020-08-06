@@ -4,10 +4,10 @@ label house:
       scene deskback
       with fade
 
-      show rubyspritehalf:
+      show rubyspritehalfneutral:
           xalign 0.5 yalign 0.08
 
-      show miaspritehalf:
+      show miaspritehalfhappy:
           xalign 0.825 yalign 0.135
 
       show raspberrypisprite:
@@ -37,6 +37,10 @@ menu:
 label mia_surprised:
 
     $kiss_flag = True
+    hide miaspritehalfhappy
+    show miaspritehalfworry:
+      xalign 0.825 yalign 0.135
+
 
     rai "Wait what? Uh, yeah, no, let's just forget this ever popped in my head."
 
@@ -48,6 +52,9 @@ menu:
 
 label mia_dejected:
 
+    hide miaspritehalfhappy
+    show miaspritehalfcry1:
+          xalign 0.825 yalign 0.135
     rai "That's a great ideal! I'm glad I thought of it!"
 
     # show mia dejected
