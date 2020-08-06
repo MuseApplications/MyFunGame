@@ -152,7 +152,8 @@ label all_done:
 
       with dissolve
       pause 1.5
-      hide text
+      scene black
       with dissolve
+      pause 1.5
 
       jump house
