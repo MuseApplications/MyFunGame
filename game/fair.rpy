@@ -2,7 +2,7 @@
 
 label fair:
     scene black
-    show text "Science Fair" at truecenter
+    show text "At the Science Fair" at truecenter
     with fade
     pause
     with dissolve
