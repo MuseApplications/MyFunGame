@@ -34,6 +34,9 @@ label karaoke:
       show clapbubble:
           xalign 0.3 yalign 0.2
 
+      show rubyspritefullwhateva:
+          xalign 0.6 yalign 1.0
+
       rai "Only [mia] clapped, and even she stopped when she noticed no one else was clapping."
 
       hide clapbubble

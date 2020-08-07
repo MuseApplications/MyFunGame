@@ -7,10 +7,10 @@ label bedroom:
       scene deskback
       with fade
 
-      show rubyspritehalfwhateva:
+      show rubyspritehalfneutral:
           xalign 0.5 yalign 0.08
 
-      show miaspritehalfhappy:
+      show miaspritehalfchill:
           xalign 0.825 yalign 0.135
 
       show raspberrypisprite:

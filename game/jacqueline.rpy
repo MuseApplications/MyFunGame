@@ -28,7 +28,13 @@ label jacqueline:
 
       rai "I'm a little nervous going up to her door. When we were growing up, the neigborhood boys swore she was a witch."
 
+      show rubyspritefullwhateva:
+          xalign 0.1 yalign 1.0
+
       rai "I don't know if she even has a job. I've seen her leave the house maybe two or three times, ever."
+
+      show rubyspritefullneutral:
+          xalign 0.1 yalign 1.0
 
       rai "But I don't believe in witches. That's just what you call old ladies who don't act normal. When I grow up, everyone will probably think I'm a witch."
 
@@ -127,6 +133,9 @@ label all_done:
 
       rk "Doesn't everyone? Would you like to meet her?"
 
+      show jackiespritefullhappy:
+          xalign 0.4 yalign 1.0 zoom 1.25
+
       rk "Erector! Erector come down and meet this young lady."
 
       scene jhouseint
@@ -146,6 +155,9 @@ label all_done:
       rk "Yes, I built her when I was your age with an Erector set I stole from my brother. Of course, I didn't add the motorized stuff until I was in college."
 
       rai "I liked your doorbell, did you create that?"
+
+      show jackiespritefullhappy:
+          xalign 0.8 yalign 1.0 zoom 1.2
 
       rk "Yes, my specialty is mechanical hands, would you like one? It doesn't actually do anything."
 

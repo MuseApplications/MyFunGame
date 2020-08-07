@@ -72,6 +72,9 @@ label fair:
 
     ""
 
+    show rubyspritefullwhateva:
+        xalign 0.8 yalign 1.0
+
     rai "Oh no, here are the judges. Okay [rai] time to show them what you're made of."
 
     show mechanicalglovesprite:
@@ -99,11 +102,11 @@ label fair:
 
     show johnspritefullsmug:
         xalign 0.5 yalign 1.0
-    hide rubyspritefullhappy
-    show rubyspritefullannoyed:
-        xalign 0.8 yalign 1.0
 
     yf "Hey [rai], congrats on your win."
+
+    show rubyspritefullneutral2:
+        xalign 0.8 yalign 1.0
 
     rai "Oh, thanks..."
 
@@ -118,6 +121,10 @@ label fair:
     hide johnspritefullsmug
     show johnspritefullhorror:
         xalign 0.5 yalign 1.0
+
+    show rubyspritefullannoyed:
+        xalign 0.8 yalign 1.0
+
     python:
 
         x_start = 11.0*screen_width/10.0
@@ -149,24 +156,32 @@ label fair:
         del lava_sprites
         del lava_pos
 
-
     "Suddenly [yf]'s volcano erupts again!"
 
     hide johnspritefullhorror
 
+    show rubyspritefullneutral:
+        xalign 0.8 yalign 1.0
+
     "It looks like Ms. Gupta, our principal, got gooped. [yf] rushes over to apologize."
 
-    show miaspritefullhappy:
+    show miaspritefullworry:
         xalign 0.25 yalign 1.0 zoom 1.2
-    hide rubyspritefullannoyed
+
     show rubyspritefullhappy:
         xalign 0.8 yalign 1.0
 
     mia "I wasn't sure how to rescue you, so I put more baking soda in the volcano."
 
+    show miaspritefullhappy:
+        xalign 0.25 yalign 1.0 zoom 1.2
+
     rai "A national hero."
 
-    show jackiespritefullhappy:
+    show miaspritefullchill:
+        xalign 0.25 yalign 1.0 zoom 1.2
+
+    show jackiespritefullchill:
         xalign 0.5 yalign 1.0 zoom 1.2
 
     rk "I see you put my mechanical hand to good use."
@@ -174,6 +189,9 @@ label fair:
     rai "Yes, ma'am."
 
     rk "And the glove? You did that as well?"
+
+    show miaspritefullworry:
+        xalign 0.25 yalign 1.0 zoom 1.2
 
     rai "As a matter of fact..."
 
@@ -195,9 +213,13 @@ else:
         "I did it!":
             jump i_did_it
 
-
-
 label kiss_again:
+
+    show rubyspritefullannoyed:
+        xalign 0.8 yalign 1.0
+
+    show miaspritefullworry:
+        xalign 0.25 yalign 1.0 zoom 1.2
 
     rai "NO WHAT STOP"
 
@@ -207,7 +229,13 @@ label kiss_again:
 
 label i_did_it:
 
+    show miaspritefullcry2:
+        xalign 0.25 yalign 1.0 zoom 1.2
+
     rai "I did it!"
+
+    show miaspritefullcry1:
+        xalign 0.25 yalign 1.0 zoom 1.2
 
     python:
         snow = SpriteManager(update=snow_update)
@@ -226,6 +254,9 @@ label i_did_it:
 
     show expression snow as snow
 
+    show rubyspritefullannoyed:
+        xalign 0.8 yalign 1.0
+
     rai "Something powdery falls onto my head. A lot of it, actually. Is it snowing?! Oh, nope, [mia] just dumped the remainder of the box of baking soda onto my head."
 
     hide snow
@@ -238,19 +269,43 @@ label i_did_it:
 
 label mia_did_it:
 
+      show miaspritefullhappy:
+        xalign 0.25 yalign 1.0 zoom 1.2
+
       rai "[mia] did it!"
 
 label mia_did_it_2:
 
+      show rubyspritefullhappy:
+          xalign 0.8 yalign 1.0
+
+      show miaspritefullworry:
+        xalign 0.25 yalign 1.0 zoom 1.2
+
+      show jackiespritefullhappy:
+          xalign 0.5 yalign 1.0 zoom 1.2
+
       mia "It - it was me, ma'am"
+
+      show miaspritefullchill:
+          xalign 0.25 yalign 1.0 zoom 1.2
 
       rk "Okay, no more of this ma'am nonsense. You two should join me as inventors! I can do the mechanical stuff well enough, but all these computers and stuff make my head spin."
 
       rai "Wow, do you really need us? I thought you were an expert at everything."
 
+      show jackiespritefullchill:
+          xalign 0.5 yalign 1.0 zoom 1.2
+
       rk "No one is an expert at everything! Now I expect you two to help me on my next project: a robotic vacuum!"
 
+      show rubyspritefullneutral:
+          xalign 0.8 yalign 1.0
+
       rai "There's already a robotic vacuum!"
+
+      show rubyspritefullhappy:
+          xalign 0.8 yalign 1.0
 
       rk "Yes, but mine also does counters, sinks, windows, and toilets."
 

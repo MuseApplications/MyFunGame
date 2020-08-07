@@ -5,7 +5,7 @@ label introduction:
       with fade
       play sound "audio/schoolbell.mp3"
 
-      show rubyspritefullneutral:
+      show rubyspritefullhappy:
           xalign 0.25 yalign 1.0
       with dissolve
 
@@ -17,7 +17,13 @@ label introduction:
 
       rai "All my friends like to hang out with boys."
 
+      show rubyspritefullneutral:
+          xalign 0.25 yalign 1.0
+
       rai "Actually, they're not really my friends."
+
+      show rubyspritefullhappy:
+          xalign 0.25 yalign 1.0
 
       show miaspritefullhappy:
           xalign 0.75 yalign 1.0 zoom 1.1
@@ -27,13 +33,11 @@ label introduction:
       hide miaspritefullhappy
       with dissolve
 
-      hide rubyspritefullneutral
-      show rubyspritefullannoyed:
+      show rubyspritefullwhateva:
           xalign 0.25 yalign 1.0
       rai "Most of my electronic projects don't work."
 
       scene raspberrypi
-      # with fade
 
       rai "But my mom bought me a Raspberry Pi for my birthday. I'm gonna try and make something really cool with it. Not sure what, though."
 
