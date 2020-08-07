@@ -7,10 +7,10 @@ label bedroom:
       scene deskback
       with fade
 
-      show rubyspritehalfneutral:
+      show ruby half neutral:
           xalign 0.5 yalign 0.08
 
-      show miaspritehalfchill:
+      show mia half chill:
           xalign 0.825 yalign 0.135
 
       show raspberrypisprite:
@@ -37,10 +37,10 @@ label bedroom:
       with fade
 
       play sound "audio/scary.mp3"
-      show rubyspritehalfwhateva:
+      show ruby half whateva:
           xalign 0.5 yalign 0.08
 
-      show miaspritehalfhappy:
+      show mia half happy:
           xalign 0.825 yalign 0.135
 
       show raspberrypisprite:

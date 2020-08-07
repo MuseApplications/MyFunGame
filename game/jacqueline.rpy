@@ -14,7 +14,7 @@ label jacqueline:
       scene mailbox
       with fade
 
-      show rubyspritefullneutral:
+      show ruby full neutral:
           xalign 0.05 yalign -0.125 zoom 2
 
       rai "I better check the mail before mom starts nagging..."
@@ -23,17 +23,17 @@ label jacqueline:
 
       scene jhouseout
       play music "audio/creepywind.mp3" fadeout 1.0 fadein 1.0
-      show rubyspritefullneutral:
+      show ruby full neutral:
           xalign 0.1 yalign 1.0
 
       rai "I'm a little nervous going up to her door. When we were growing up, the neigborhood boys swore she was a witch."
 
-      show rubyspritefullwhateva:
+      show ruby full whateva:
           xalign 0.1 yalign 1.0
 
       rai "I don't know if she even has a job. I've seen her leave the house maybe two or three times, ever."
 
-      show rubyspritefullneutral:
+      show ruby full neutral:
           xalign 0.1 yalign 1.0
 
       rai "But I don't believe in witches. That's just what you call old ladies who don't act normal. When I grow up, everyone will probably think I'm a witch."
@@ -64,7 +64,7 @@ label jacqueline:
 
       scene jdoor
 
-      show jackiespritefullangry:
+      show jackie full angry:
           xalign 0.4 yalign 1.0 zoom 1.25
 
       rk "Curse that mailman, he's always giving my mail to everyone but me! Next time I'm going to sic my mechanical dog on him."
@@ -125,15 +125,14 @@ label choice1_C:
 
 label all_done:
 
-      hide jackiespritefullangry
-      show jackiespritefullchill:
+      show jackie full chill:
           xalign 0.4 yalign 1.0 zoom 1.25
 
       rai "You have a mechanical dog?"
 
       rk "Doesn't everyone? Would you like to meet her?"
 
-      show jackiespritefullhappy:
+      show jackie full happy:
           xalign 0.4 yalign 1.0 zoom 1.25
 
       rk "Erector! Erector come down and meet this young lady."
@@ -141,13 +140,13 @@ label all_done:
       scene jhouseint
       play music "audio/rubypi.mp3" fadeout 1.0 fadein 1.0
 
-      show rubyspritefullhappy:
+      show ruby full happy:
           xalign 0.15 yalign 1.0
 
       show robotdog at truecenter:
           xalign 0.5 yalign 0.6
 
-      show jackiespritefullchill:
+      show jackie full chill:
           xalign 0.8 yalign 1.0 zoom 1.2
 
       rai "I'm [rai], by the way. And her name is Erector?"
@@ -156,7 +155,7 @@ label all_done:
 
       rai "I liked your doorbell, did you create that?"
 
-      show jackiespritefullhappy:
+      show jackie full happy:
           xalign 0.8 yalign 1.0 zoom 1.2
 
       rk "Yes, my specialty is mechanical hands, would you like one? It doesn't actually do anything."

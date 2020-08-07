@@ -5,7 +5,7 @@ label introduction:
       with fade
       play sound "audio/schoolbell.mp3"
 
-      show rubyspritefullhappy:
+      show ruby full happy:
           xalign 0.25 yalign 1.0
       with dissolve
 
@@ -17,23 +17,23 @@ label introduction:
 
       rai "All my friends like to hang out with boys."
 
-      show rubyspritefullneutral:
+      show ruby full neutral:
           xalign 0.25 yalign 1.0
 
       rai "Actually, they're not really my friends."
 
-      show rubyspritefullhappy:
+      show ruby full happy:
           xalign 0.25 yalign 1.0
 
-      show miaspritefullhappy:
+      show mia full happy:
           xalign 0.75 yalign 1.0 zoom 1.1
 
       rai "This is my only real friend, [mia]."
 
-      hide miaspritefullhappy
+      hide mia full happy
       with dissolve
 
-      show rubyspritefullwhateva:
+      show ruby full whateva:
           xalign 0.25 yalign 1.0
       rai "Most of my electronic projects don't work."
 

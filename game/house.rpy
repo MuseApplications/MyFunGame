@@ -4,10 +4,10 @@ label house:
       scene deskback
       with fade
 
-      show rubyspritehalfneutral:
+      show ruby half neutral:
           xalign 0.5 yalign 0.08
 
-      show miaspritehalfchill:
+      show mia half chill:
           xalign 0.825 yalign 0.135
 
       show raspberrypisprite:
@@ -18,25 +18,25 @@ label house:
 
       rai "I bet if I hooked this up with my Raspberry Pi I could make it move. But what should it do?"
 
-      show miaspritehalfhappy:
+      show mia half happy:
           xalign 0.825 yalign 0.135
 
       mia "I can bake a raspberry pie, but how would that make it move?"
 
-      show rubyspritehalfwhateva:
+      show ruby half whateva:
           xalign 0.5 yalign 0.08
 
-      show miaspritehalfchill:
+      show mia half chill:
           xalign 0.825 yalign 0.135
 
       rai "Not that kind of pie! A P-I pi. It's like a little computer."
 
-      show miaspritehalfworry:
+      show mia half worry:
           xalign 0.825 yalign 0.135
 
       mia "Oh. Well, since it's a single hand, maybe you can teach it to play solitaire."
 
-      show rubyspritehalfhappy:
+      show ruby half happy:
           xalign 0.5 yalign 0.08
 
       $kiss_flag = False
@@ -53,10 +53,10 @@ label mia_surprised:
 
     $kiss_flag = True
 
-    show rubyspritehalfannoyed:
+    show ruby half annoyed:
         xalign 0.5 yalign 0.08
 
-    show miaspritehalfworry:
+    show mia half worry:
       xalign 0.825 yalign 0.135
 
 
@@ -70,11 +70,11 @@ menu:
 
 label mia_dejected:
 
-    show miaspritehalfcry1:
+    show mia half cry1:
           xalign 0.825 yalign 0.135
     rai "That's a great ideal! I'm glad I thought of it!"
 
-    show rubyspritehalfhappy:
+    show ruby half happy:
         xalign 0.5 yalign 0.08
 
     # show mia dejected
@@ -85,8 +85,8 @@ label mia_dejected:
 
 label mia_happy:
 
-    hide miaspritehalfworry
-    show miaspritehalfhappy:
+    hide mia half worry
+    show mia half happy:
           xalign 0.825 yalign 0.135
     rai "That's a great ideal! You're a genius, [mia]!"
 
@@ -96,10 +96,10 @@ label mia_happy:
 
 label continue:
 
-      show rubyspritehalfneutral:
+      show ruby half neutral:
          xalign 0.5 yalign 0.08
 
-      show miaspritehalfchill:
+      show mia half chill:
           xalign 0.825 yalign 0.135
 
       mia "You know the science fair is tomorrow, can you do it by then?"
@@ -110,7 +110,7 @@ label continue:
 
       "..."
 
-      show miaspritehalfworry:
+      show mia half worry:
           xalign 0.825 yalign 0.135
 
       mia "I'll get some energy drinks, it sounds like it will be a long night."

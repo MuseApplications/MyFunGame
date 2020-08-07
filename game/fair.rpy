@@ -12,15 +12,14 @@ label fair:
     scene sfvolcano
     with fade
 
-    show johnspritefullsmug:
+    show john full smug:
         xalign 0.7 yalign 1.0
 
     yf "I bet no one ever thought of this!"
 
     yf "As soon as the pressure from the magma is high enough KABLOOEY!"
 
-    hide johnspritefullsmug
-    show johnspritefullhorror:
+    show john full horror:
         xalign 0.7 yalign 1.0
 
     python:
@@ -66,7 +65,7 @@ label fair:
     show mechanicalglovesprite:
         xalign glove_x yalign glove_y
 
-    show rubyspritefullwhateva:
+    show ruby full whateva:
         xalign 0.8 yalign 1.0
 
 
@@ -82,8 +81,7 @@ label fair:
 
     rai "I turn on the switch. The mechanical hand whirs into action and everyone stands back amazed as it flips over the cards and moves them around."
 
-    hide rubyspritefullannoyed
-    show rubyspritefullhappy:
+    show ruby full happy:
         xalign 0.8 yalign 1.0
 
     rai "Everyone is applauding! Wow, ok thank god. Still got a few bugs to work out..."
@@ -97,12 +95,12 @@ label fair:
 
     rai "Hot damn, I even got the blue ribbon!!"
 
-    show johnspritefullsmug:
+    show john full smug:
         xalign 0.5 yalign 1.0
 
     yf "Hey [rai], congrats on your win."
 
-    show rubyspritefullneutral2:
+    show ruby full neutral2:
         xalign 0.8 yalign 1.0
 
     rai "Oh, thanks..."
@@ -115,11 +113,11 @@ label fair:
 
     yf "It's quite a lot of pressure for a young, vigorous man like me, and..."
 
-    hide johnspritefullsmug
-    show johnspritefullhorror:
+    hide john full smug
+    show john full horror:
         xalign 0.5 yalign 1.0
 
-    show rubyspritefullannoyed:
+    show ruby full annoyed:
         xalign 0.8 yalign 1.0
 
     python:
@@ -155,30 +153,30 @@ label fair:
 
     "Suddenly [yf]'s volcano erupts again!"
 
-    hide johnspritefullhorror
+    hide john full horror
 
-    show rubyspritefullneutral:
+    show ruby full neutral:
         xalign 0.8 yalign 1.0
 
     "It looks like Ms. Gupta, our principal, got gooped. [yf] rushes over to apologize."
 
-    show miaspritefullworry:
+    show mia full worry:
         xalign 0.25 yalign 1.0 zoom 1.2
 
-    show rubyspritefullhappy:
+    show ruby full happy:
         xalign 0.8 yalign 1.0
 
     mia "I wasn't sure how to rescue you, so I put more baking soda in the volcano."
 
-    show miaspritefullhappy:
+    show mia full happy:
         xalign 0.25 yalign 1.0 zoom 1.2
 
     rai "A national hero."
 
-    show miaspritefullchill:
+    show mia full chill:
         xalign 0.25 yalign 1.0 zoom 1.2
 
-    show jackiespritefullchill:
+    show jackie full chill:
         xalign 0.5 yalign 1.0 zoom 1.2
 
     rk "I see you put my mechanical hand to good use."
@@ -187,7 +185,7 @@ label fair:
 
     rk "And the glove? You did that as well?"
 
-    show miaspritefullworry:
+    show mia full worry:
         xalign 0.25 yalign 1.0 zoom 1.2
 
     rai "As a matter of fact..."
@@ -212,10 +210,10 @@ else:
 
 label kiss_again:
 
-    show rubyspritefullannoyed:
+    show ruby full annoyed:
         xalign 0.8 yalign 1.0
 
-    show miaspritefullworry:
+    show mia full worry:
         xalign 0.25 yalign 1.0 zoom 1.2
 
     rai "NO WHAT STOP"
@@ -226,13 +224,12 @@ label kiss_again:
 
 label i_did_it:
 
-    show miaspritefullcry2:
+    show mia full cry2:
         xalign 0.25 yalign 1.0 zoom 1.2
 
     rai "I did it!"
 
-    hide miaspritefullcry2
-    show miaspritefullcry1:
+    show mia full cry1:
         xalign 0.25 yalign 1.0 zoom 1.2
 
     python:
@@ -252,7 +249,7 @@ label i_did_it:
 
     show expression snow as snow
 
-    show rubyspritefullannoyed:
+    show ruby full annoyed:
         xalign 0.8 yalign 1.0
 
     rai "Something powdery falls onto my head. A lot of it, actually. Is it snowing?! Oh, nope, [mia] just dumped the remainder of the box of baking soda onto my head."
@@ -267,44 +264,42 @@ label i_did_it:
 
 label mia_did_it:
 
-      hide miaspritefullworry
-      show miaspritefullhappy:
+      show mia full happy:
         xalign 0.25 yalign 1.0 zoom 1.2
 
       rai "[mia] did it!"
 
 label mia_did_it_2:
 
-      show rubyspritefullhappy:
+      show ruby full happy:
           xalign 0.8 yalign 1.0
 
-      hide miaspritefullcry1
-      show miaspritefullworry:
+      show mia full worry:
         xalign 0.25 yalign 1.0 zoom 1.2
 
-      show jackiespritefullhappy:
+      show jackie full happy:
           xalign 0.5 yalign 1.0 zoom 1.2
 
       mia "It - it was me, ma'am"
 
-      show miaspritefullchill:
+      show mia full chill:
           xalign 0.25 yalign 1.0 zoom 1.2
 
       rk "Okay, no more of this ma'am nonsense. You two should join me as inventors! I can do the mechanical stuff well enough, but all these computers and stuff make my head spin."
 
       rai "Wow, do you really need us? I thought you were an expert at everything."
 
-      show jackiespritefullchill:
+      show jackie full chill:
           xalign 0.5 yalign 1.0 zoom 1.2
 
       rk "No one is an expert at everything! Now I expect you two to help me on my next project: a robotic vacuum!"
 
-      show rubyspritefullneutral:
+      show ruby full neutral:
           xalign 0.8 yalign 1.0
 
       rai "There's already a robotic vacuum!"
 
-      show rubyspritefullhappy:
+      show ruby full happy:
           xalign 0.8 yalign 1.0
 
       rk "Yes, but mine also does counters, sinks, windows, and toilets."
