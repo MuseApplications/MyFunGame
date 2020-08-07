@@ -36,7 +36,7 @@ label house:
 
       mia "Oh. Well, since it's a single hand, maybe you can teach it to play solitaire."
 
-      show rubyspritefullhappy:
+      show rubyspritehalfhappy:
           xalign 0.5 yalign 0.08
 
       $kiss_flag = False
@@ -70,7 +70,6 @@ menu:
 
 label mia_dejected:
 
-    hide miaspritehalfhappy
     show miaspritehalfcry1:
           xalign 0.825 yalign 0.135
     rai "That's a great ideal! I'm glad I thought of it!"
@@ -86,9 +85,9 @@ label mia_dejected:
 
 label mia_happy:
 
-    show rubyspritehalfhappy:
-        xalign 0.5 yalign 0.08
-
+    hide miaspritehalfworry
+    show miaspritehalfhappy:
+          xalign 0.825 yalign 0.135
     rai "That's a great ideal! You're a genius, [mia]!"
 
     mia "..."

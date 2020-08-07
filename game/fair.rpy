@@ -66,14 +66,11 @@ label fair:
     show mechanicalglovesprite:
         xalign glove_x yalign glove_y
 
-    show rubyspritefullannoyed:
+    show rubyspritefullwhateva:
         xalign 0.8 yalign 1.0
 
 
     ""
-
-    show rubyspritefullwhateva:
-        xalign 0.8 yalign 1.0
 
     rai "Oh no, here are the judges. Okay [rai] time to show them what you're made of."
 
@@ -234,6 +231,7 @@ label i_did_it:
 
     rai "I did it!"
 
+    hide miaspritefullcry2
     show miaspritefullcry1:
         xalign 0.25 yalign 1.0 zoom 1.2
 
@@ -269,6 +267,7 @@ label i_did_it:
 
 label mia_did_it:
 
+      hide miaspritefullworry
       show miaspritefullhappy:
         xalign 0.25 yalign 1.0 zoom 1.2
 
@@ -279,6 +278,7 @@ label mia_did_it_2:
       show rubyspritefullhappy:
           xalign 0.8 yalign 1.0
 
+      hide miaspritefullcry1
       show miaspritefullworry:
         xalign 0.25 yalign 1.0 zoom 1.2
 
