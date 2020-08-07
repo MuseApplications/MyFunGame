@@ -192,6 +192,11 @@ init python:
     build.classify('**/.**', None)
     build.classify('**/#**', None)
     build.classify('**/thumbs.db', None)
+    build.classify('/original sketches/**', None)
+    build.classify('/storyboard/**', None)
+    build.classify('/VN links.md', None)
+    build.classify('/Visual Novel Primer.pdf', None)
+    build.classify('/timeline.md', None)
 
     ## To archive files, classify them as 'archive'.
 
