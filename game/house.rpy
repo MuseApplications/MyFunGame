@@ -1,6 +1,11 @@
 # scene 4 Back at Rai's house in her room with Mia
 
 label house:
+      scene black
+      with fade
+      with dissolve
+      pause
+      
       scene deskback
       with fade
 
