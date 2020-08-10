@@ -41,6 +41,7 @@ init python:
 label start:
     scene beginning
     with fade
+    stop music fadeout 1
 
     "[rai] Pi"
 
