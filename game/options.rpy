@@ -37,7 +37,7 @@ Character designer: rai
 Colorist: Mary
 Background art: Randy, Mary
 Animation: yugyfoog
-Music: 'Ruby Bells' composed and produced by Randy
+Music: 'Ruby Bells' composed and produced by Randy, '8.03.20' composed by Jason Anthony Gomez (jagomezmusic.com)
 Sound: https://www.freesfx.co.uk
 Photo credits: Joanna Szumska on Unsplash for the tropical beach photo
 """)
