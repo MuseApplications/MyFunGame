@@ -6,6 +6,7 @@ label bedroom:
 
       scene deskback
       with fade
+      play music "audio/rubypi.mp3" fadeout 1
 
       show ruby half neutral:
           xalign 0.5 yalign 0.08
