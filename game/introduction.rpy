@@ -4,6 +4,7 @@ label introduction:
       scene lockers
       with fade
       play sound "audio/schoolbell.mp3"
+      play music "audio/JAG-Aug3.mp3"
 
       show ruby full happy:
           xalign 0.25 yalign 1.0
