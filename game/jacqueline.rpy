@@ -138,7 +138,7 @@ label all_done:
       rk "Erector! Erector come down and meet this young lady."
 
       scene jhouseint
-      play music "audio/rubypi.mp3" fadeout 1.0 fadein 1.0
+      play music "audio/JAG-Aug3.mp3" fadeout 1
 
       show ruby full happy:
           xalign 0.15 yalign 1.0
