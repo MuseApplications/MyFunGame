@@ -11,6 +11,7 @@ label fair:
 
     scene sfvolcano
     with fade
+    play music "audio/JAG-Aug3.mp3" fadeout 1
 
     show john full smug:
         xalign 0.7 yalign 1.0
