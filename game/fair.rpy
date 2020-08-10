@@ -23,6 +23,8 @@ label fair:
     show john full horror:
         xalign 0.7 yalign 1.0
 
+    play sound "audio/explosion.mp3"
+
     python:
 
         x_start = 9.0*screen_width/20.0
@@ -120,6 +122,8 @@ label fair:
 
     show ruby full annoyed:
         xalign 0.8 yalign 1.0
+
+    play sound "audio/explosion.mp3"
 
     python:
 
